@@ -20,8 +20,9 @@
 </div>
 <div class="form">
   <form action="./auswerten.php" method="post" enctype="multipart/form-data">
-    <input type="file" name="fileToUpload" id="fileToUpload">
-    <input type="text" name="message" placeholder="Sag dem alex wie gern du ihn hast" required autofocus>
+    <label for="upload">Upload</label>
+    <input type="file" name="fileToUpload" id="upload">
+    <input type="text" name="message" placeholder="Sag dem alex wie gern du ihn hast" autofocus>
     <input type="submit" name="submit" value="Senden">
   </form>
   <br>

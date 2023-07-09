@@ -19,6 +19,10 @@ body {
     overflow: auto;
     border: 3px solid var(--prim);
 }
+.messageTime {
+    color: gray;
+    font-size: x-small;
+}
 .form {
     padding: 0 20px;
 }
@@ -30,8 +34,20 @@ input, button {
 input:focus {
     border: 0;
 }
+label {
+    color: #fff;
+    cursor: pointer;
+    padding: 9px 10px;
+    border-radius: 5px;
+    background-color: var(--prim);
+}
+#upload {
+    opacity: 0;
+    z-index: -1;
+    position: absolute;
+}
 input[type=text] {
-    width: 620px;
+    width: 600px;
 }
 button, input[type=submit] {
     padding: 6px;
