@@ -46,25 +46,29 @@ function Autoscroll(submit) {
     }
 }
 
-function scrollToBottom() {
-  const element = document.getElementById("content");
-  element.scrollIntoView(false);
-}
+// function scrollToBottom() {
+//   const element = document.getElementById("content");
+//   element.scrollIntoView(false);
+// }
 
 // jQuery Document
 $(document).ready(function(){
+  
+  function scrollToBottom() {
+    $("#content").scrollIntoView(false);
+  }
 
-    //Load the file containing the chat log
-    function loadLog(){
+  //Load the file containing the chat log
+  function loadLog(){
 		var oldscrollHeight = $("#content").attr("scrollHeight") - 20;
 		$.ajax({
 			url: "chat.txt",
 			cache: false,
 			success: function(html){		
 				$("#content").html(html); //Insert chat log into the #chatBox div
-		  	},
+		  },
 		});
 	}
-	setInterval (loadLog, 1000);	//Reload file every 1 second
+	setInterval (loadLog, 1000);	//Reload file every second
 });
 </script>
