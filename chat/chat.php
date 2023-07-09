@@ -34,16 +34,16 @@
 
 // setInterval(scrollToBottom, 0);
 
-function Autoscroll(submit) {
-  var x = document.getElementById("on-off");
-    if (x.innerHTML === "OFF") {
-      x.innerHTML = "ON";
-      setInterval(scrollToBottom, 0);
-    } else if (x.innerHTML === 'ON') {
-      x.innerHTML = "OFF";
-      setInterval(scrollToBottom, -1);
-      window.location.reload();
-    }
+function Autoscroll() {
+var x = document.getElementById("on-off");
+  if (x.innerHTML === "OFF") {
+    x.innerHTML = "ON";
+    setInterval(scrollToBottom, 0);
+  } else if (x.innerHTML === 'ON') {
+    x.innerHTML = "OFF";
+    setInterval(scrollToBottom, -1);
+    window.location.reload();
+  }
 }
 
 function scrollToBottom() {
@@ -58,7 +58,7 @@ $(document).ready(function(){
   function loadLog(){
 		var oldscrollHeight = $("#content").attr("scrollHeight") - 20;
 		$.ajax({
-			url: "chat.txt",
+			url: "./chat.txt",
 			cache: false,
 			success: function(html){		
 				$("#content").html(html); //Insert chat log into the #chatBox div
