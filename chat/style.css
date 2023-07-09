@@ -3,27 +3,26 @@
     font-family: Arial, sans-serif;
 }
 html {
-    /* height: 100vh; */
+    height: 100vh;
 }
 body {
     height: 85%;
-    height: 830px;
+    height: 850px;
     width: fit-content;
     margin: 50px auto !important;
     border: 15px solid var(--prim);
 }
 #chatBoxDIV {
     height: 83%;
-    width: 700px;
     padding: 20px;
     margin: 20px;
     overflow: auto;
     border: 3px solid var(--prim);
 }
-form {
-    padding: 20px;
+.form {
+    padding: 0 20px;
 }
-input {
+input, button {
     padding: 5px;
     color: black;
     font-size: large;
@@ -42,26 +41,6 @@ button, input[type=submit] {
 }
 button {
     width: 100%;
-}
-
-.form-switch {
-    margin: 0;
-}
-.form-check-input {
-    /* margin-bottom: 50px; */
-    background-color: white;
-}
-.form-check-input:checked {
-    color: var(--prim);
-    border-color: var(--prim);
-    background-color: var(--prim);
-}
-.form-check-input:checked:focus {
-    background-color: var(--prim);
-    border: 0;
-}
-.form-check-input:focus {
-    border: 0;
 }
 
 @media only screen and (max-width: 800px) {
