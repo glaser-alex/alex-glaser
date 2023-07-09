@@ -13,15 +13,15 @@
     $dateiname = "./chat.txt";
     if ($_POST['submit']) {
 
-        if (empty($_POST['fileToUpload']) && empty($_POST['message'])) {
+        if (empty($_POST['file']) && empty($_POST['message'])) {
             header("Location: ./chat.php");
+            exit();
         }
 
         $date = date('(H:i) ');
         $datei = fopen($dateiname, "a");
 
-        if (isset($_FILES["fileToUpload"]["name"])) {
-
+        if (isset($_POST["file"])) {
             $target_dir = "uploads/";
             $target_file = $target_dir . basename($_FILES["fileToUpload"]["name"]);
             $uploadOk = 1;

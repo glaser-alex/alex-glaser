@@ -46,17 +46,13 @@ function Autoscroll(submit) {
     }
 }
 
-// function scrollToBottom() {
-//   const element = document.getElementById("content");
-//   element.scrollIntoView(false);
-// }
+function scrollToBottom() {
+  const element = document.getElementById("content");
+  element.scrollIntoView(false);
+}
 
 // jQuery Document
 $(document).ready(function(){
-  
-  function scrollToBottom() {
-    $("#content").scrollIntoView(false);
-  }
 
   //Load the file containing the chat log
   function loadLog(){
