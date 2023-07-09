@@ -65,16 +65,16 @@ input[type=text] {
     }
     body {
         height: 100%;
-        width: 100%;
+        min-width: 400px;
         margin: 20px auto;
         border: 0 solid var(--prim);
     }
     #chatBoxDIV {
-        height: 70%;
+        height: 80%;
         margin: 0 20px 20px 20px;
     }
     input[type=text] {
-        width: 65%;
+        width: 234px;
     }
 }
 
