@@ -13,6 +13,10 @@
     $dateiname = "./chat.txt";
     if ($_POST['submit']) {
 
+        if (empty($_POST['fileToUpload']) && empty($_POST['message'])) {
+            header("Location: ./chat.php");
+        }
+
         $date = date('(H:i) ');
         $datei = fopen($dateiname, "a");
 
