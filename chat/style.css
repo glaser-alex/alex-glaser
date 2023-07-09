@@ -9,7 +9,7 @@ body {
     height: 85%;
     height: 850px;
     width: fit-content;
-    margin: 50px auto !important;
+    margin: 50px auto;
     border: 15px solid var(--prim);
 }
 #chatBoxDIV {
@@ -49,31 +49,32 @@ label {
 input[type=text] {
     width: 600px;
 }
-button, input[type=submit] {
+#scrollButton, input[type=submit] {
     padding: 6px;
     border-radius: 2px;
     border: 1px solid #999;
     background-color: transparent;
 }
-button {
+#scrollButton {
     width: 100%;
 }
 
 @media only screen and (max-width: 800px) {
-    *, input {
+    *, html, button, input {
         font-size: small;
     }
     body {
-        height: 90%;
+        height: 100%;
         width: 100%;
-        border: 0px solid black;
+        margin: 20px auto;
+        border: 0 solid var(--prim);
     }
     #chatBoxDIV {
-        width: 90%;
-        margin: 0 20px;
+        height: 80%;
+        margin: 0 20px 20px 20px;
     }
     input[type=text] {
-        width: 81%;
+        width: 65%;
     }
 }
 

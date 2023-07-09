@@ -26,7 +26,7 @@
     <input type="submit" name="submit" value="Senden">
   </form>
   <br>
-  <button onclick="Autoscroll()">Autoscroll <span id='on-off'>OFF</span></button>
+  <button onclick="Autoscroll()" id="scrollButton">Autoscroll <span id='on-off'>OFF</span></button>
 </div>
 </body>
 </html>
