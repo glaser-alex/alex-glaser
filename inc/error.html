@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <link rel="icon" type="image/png" href="../img/logo.png">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Spiele nicht mit meinen GET Parametern rum!</title>
+    <style>
+        @font-face {
+            font-family: Monocraft;
+            src: url(./font/Monocraft/Monocraft.ttf);
+        }        
+        @keyframes color-change {
+            50% { color: white; text-shadow: 0 0 20px white; }
+        }
+        @keyframes background-color-change {
+            /* 50% { background-color: #ff0000; } */
+        }
+        * { font-family: Monocraft, Arial, sans-serif; }
+        html {
+            width: 100%;
+            height: 100vh;
+            animation: background-color-change 0.1s infinite;
+        }
+        body {
+            background-image: url("../img/pepe-angry.gif");
+            background-size: cover;
+            background-position-y: -400px;
+        }
+        .box {
+            width: 100%;
+            text-align: center;
+            position: absolute; left: 50%; top: 50%;
+            transform: translate(-50%, -50%);
+            -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+        }
+        .titel {
+            color: red;
+            text-shadow: 0 0 20px white 100%;
+            text-align: center;
+            font-size: 200%;
+            animation: color-change 0.1s infinite;
+        }
+        .pepe-gif { width: 100%; }
+        .dp-none { display: none; }
+    </style>
+    <script>
+        let random = Math.floor(Math.random() * 3) + 1;
+        random = 1;
+        switch (random) {
+            case 0:
+                document.getElementById("").play();
+                break;
+            case 1:
+                document.getElementById("suka").play();
+                break;
+            case 2:
+                document.getElementById("ahh").play();
+                break;
+            case 3:
+                document.getElementById("jumpscare").play();
+                break;
+        }
+    </script>
+</head>
+<body>
+    
+    <div class="box">
+        <h1 class="titel">Spiele nicht mit meinen GET Parametern rum!</h1>
+    </div>
+    
+    <div class="dp-none">
+        <audio id="suka">
+            <source src="../audio/suka.mp3" type="audio/mpeg">
+        </audio>
+        <audio id="ahh">
+            <source src="../audio/ahhhhhh.mp3" type="audio/mpeg">
+        </audio>
+        <audio id="jumpscare">
+            <source src="../audio/jumpscare.mp3" type="audio/mpeg">
+        </audio>
+    </div>
+    
+</body>
+</html>

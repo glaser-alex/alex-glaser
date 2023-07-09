@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Auto Email</title>
+  <style>
+    /* ***************************************************************************/
+    /* -------------------------------- Desktop -------------------------------- */
+    
+    /* Formatierung fuer Links */
+    .link {
+      color: #0066cc;
+      text-decoration: underline;
+    }
+    
+    /* Grid-follow */
+    .grid-container-follow {
+      text-align: center;
+      display: grid;
+      grid-template-columns: 33% 33% 33%;
+      /* border: 1px solid black; */
+    }
+    
+    /* Grid-follow links */
+    .grid-container-follow a {
+      color: black;
+      width: fit-content;
+    }
+    
+    /* Grid-follow links */
+    .grid-container-follow a:hover {
+      text-decoration: underline;
+    }
+    
+    .fa {
+      width: 50px;
+    }
+    
+    .link {
+      border: 0;
+      text-decoration: none;
+      background: transparent;
+    }
+    
+    /* Footer */
+    footer {
+      padding: 50px 20px;
+      color: white;
+      background: linear-gradient(90deg,#000020,#002846,#002c48 80%);
+      background: #d2d2d2;
+    }
+    
+    /* **************************************************************************/
+    /* -------------------------------- Tablet -------------------------------- */
+    @media screen and (max-width: 1100px) {
+    
+    }
+    
+    /* ************************************************************************ */
+    /* -------------------------------- Mobile -------------------------------- */
+    @media screen and (max-width: 500px) {
+      /* Grid-follow */
+      .grid-container-follow {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        /* border: 1px solid black; */
+      }
+    }
+  </style>
+</head>
+<body>
+
+<head>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<p>
+    Vielen Dank f&uuml;r Ihre E-Mail.<br>
+    Ich werde so schnell wie m&ouml;glich antworten.<br>
+    Sie k&ouml;nnen mich gerne immer unter der E-Mail <span class="link">kontakt@alex-glaser.de</span> erreichen.<br>
+    Zu meiner -> <a class="link" href="https://alex-glaser.de">Homepage</a>
+</p>
+<p>
+    Mit freundlichen Gr&uuml;&sbquo;en,<br>
+</p>
+<p>
+  <b style="font-size: 20;">Alex Glaser</b><br>
+  <span style="font-size: 10;">Sch&uuml;ler IT-Schule</span><br><br>
+</p>
+<p>
+  Bildungsakademie Inn-Salzach<br>
+  Alte-Haupttor-Stra&sbquo;e 2<br>
+  D-84508 Burgkirchen<br>
+</p>
+<p>
+  Tel.: <spna class="link">+49 8679 7-3198</spna><br>
+  E-Mail: <span class="link">bildung@bit-gendorf.de</span><br>
+  Internet: <span class="link">www.bit-gendorf.de</span>
+</p>
+<p style="color: #999999; font-size: small;">
+    Diese E-Mail wurde automatisch gesendet.
+</p>
+
+<footer>
+    <div class="grid-container-follow">
+        <div><a class="link fa fa-instagram" target="new" href="https://www.instagram.com/alexx_xr"> Instagram</a></div>
+        <div><a class="link fa fa-github" target="new" href="https://github.com/glaser-alex"> Github</a></div>
+        <div><a class="link fa fa-bitcoin" target="new" href="https://bit-gendorf.de/de-DE/IT-Schule"> BiT</a></div>
+    </div>
+</footer>
+
+</body>
+</html>
