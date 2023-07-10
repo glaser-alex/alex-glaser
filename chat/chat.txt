@@ -1,0 +1,2 @@
+<div class='messageDIV messageMitImg'><b style='color: pink'>valentina❀:</b><br><img src='./uploads/WhatsApp Image 2022-11-21 at 13.55.39.jpeg' width='250'><br><br><span class='messageTime'>(00:59) </span></div><div class='messageDIV'><span class='messageTime'>(00:59) </span><b style='color: pink'>valentina❀:</b> sadfadf</div>
+
