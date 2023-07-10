@@ -35,6 +35,14 @@
   <button onclick="Autoscroll()" id="scrollButton">Autoscroll <span id='on-off'>OFF</span></button>
 </div>
 </body>
+<?php
+  $tag = date('j');
+  $monat = date('n');
+  $jahr = date('Y');
+  if (strlen($tag) == 2) { $Tag = substr($tag, 0, 1); $Tag .= ".".substr($tag, 1, 2); } else { $Tag = $tag; }
+  if (strlen($monat) == 2) { $Monat = substr($monat, 0, 1); $Monat .= ".".substr($monat, 1, 2); } else { $Monat = $monat; }
+  echo "<div class='version'>© $jahr Alexander Glaser v.$Tag.$Monat</div>";
+?>
 </html>
 <script type="text/javascript">
 
