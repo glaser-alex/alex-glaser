@@ -1,2 +1,30 @@
 <div class='messageDIV messageMitImg'><b style='color: pink'>valentina❀:</b><br><img src='./uploads/WhatsApp Image 2022-11-21 at 13.55.39.jpeg' width='250'><br><br><span class='messageTime'>(00:59) </span></div><div class='messageDIV'><span class='messageTime'>(00:59) </span><b style='color: pink'>valentina❀:</b> sadfadf</div>
 
+<div class='messageDIV'><span class='messageTime'>(01:03) </span><b style='color: #31a2d6'>alex:</b> adf</div>
+
+<div class='messageDIV'><span class='messageTime'>(01:03) </span><b style='color: #31a2d6'>alex:</b> adsfadsf</div>
+
+<div class='messageDIV' style='background: '#eeeeee''><span class='messageTime'>(01:04) </span><b style='color: #31a2d6'>alex:</b> adsf</div>
+
+<div class='messageDIV' style='background: '#eeeeee''><span class='messageTime'>(01:04) </span><b style='color: #31a2d6'>alex:</b> asdf</div>
+
+<div class='messageDIV' style='background: '#eeeeee'><span class='messageTime'>(01:04) </span><b style='color: #31a2d6'>alex:</b> ASD</div>
+
+<div class='messageDIV' style='background: lightblue'><span class='messageTime'>(01:05) </span><b style='color: #31a2d6'>alex:</b> sdf</div>
+
+<div class='messageDIV' style='background: #ececec'><span class='messageTime'>(01:05) </span><b style='color: pink'>valentina❀:</b> sdfsdf</div>
+
+<div class='messageDIV' style='background: #bcdee9'><span class='messageTime'>(01:07) </span><b style='color: #31a2d6'>alex:</b> asdf</div>
+
+<div class='messageDIV' style='background: #31a2d650'><span class='messageTime'>(01:08) </span><b style='color: #31a2d6'>alex:</b> asdfad</div>
+
+<div class='messageDIV' style='background: #31a2d610'><span class='messageTime'>(01:08) </span><b style='color: #31a2d6'>alex:</b> adsf</div>
+
+<div class='messageDIV' style='background: #31a2d620'><span class='messageTime'>(01:08) </span><b style='color: #31a2d6'>alex:</b> adf</div>
+
+<div class='messageDIV' style='background: #31a2d650'><span class='messageTime'>(01:08) </span><b style='color: #31a2d6'>alex:</b> adsf</div>
+
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(01:08) </span><b style='color: #31a2d6'>alex:</b> adfadf</div>
+
+<div class='messageDIV' style='background: #31a2d627'><span class='messageTime'>(01:09) </span><b style='color: #31a2d6'>alex:</b> adsf</div>
+

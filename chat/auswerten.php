@@ -6,8 +6,10 @@
 
     if ($_SESSION['username'] == 'admin') {
         $username = "<b style='color: #31a2d6'>alex:</b>";
+        $backgroundColor = "#31a2d628";
     } else {
         $username = "<b style='color: pink'>valentina❀:</b>";
+        $backgroundColor = "#ececec";
     }
     
     $dateiname = "./chat.txt";
@@ -61,13 +63,13 @@
                 echo "Sorry, your file was not uploaded.";
                 // if everything is ok, try to upload file
             } else {
-                fputs($datei, "<div class='messageDIV messageMitImg'>".$username."<br><img src='./uploads/".$_FILES['fileToUpload']['name']."' width='250'><br>".$_POST['message']."<br><span class='messageTime'>".$date."</span></div>\n\n");
+                fputs($datei, "<div class='messageDIV messageMitImg' style='background: ".$backgroundColor."'>".$username."<br><img src='./uploads/".$_FILES['fileToUpload']['name']."' width='250'><br>".$_POST['message']."<br><span class='messageTime'>".$date."</span></div>\n\n");
             }            
         } else {
             if (empty($_POST['message'])) {
                 header("Location: ./chat.php");
             } else {
-                fputs($datei, "<div class='messageDIV'><span class='messageTime'>".$date."</span>".$username." ".$_POST['message']."</div>\n\n");
+                fputs($datei, "<div class='messageDIV' style='background: ".$backgroundColor."'><span class='messageTime'>".$date."</span>".$username." ".$_POST['message']."</div>\n\n");
             }
         }
         
