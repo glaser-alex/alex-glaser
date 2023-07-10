@@ -6,7 +6,7 @@
 
     if ($_SESSION['username'] == 'admin') {
         $username = "<b style='color: #31a2d6'>alex:</b>";
-        $backgroundColor = "#31a2d628";
+        $backgroundColor = "#31a2d630";
     } else {
         $username = "<b style='color: pink'>valentina❀:</b>";
         $backgroundColor = "#ececec";
