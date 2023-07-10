@@ -9,6 +9,12 @@
     <title>Chat</title>
 </head>
 <body>
+<div class="release">
+  <h2>Release Notes</h2>
+  <p>
+    v.1.1.7: Message mit Hintergrundfarbe.
+  </p>
+</div>
 <div id="chatBoxDIV">
   <div id="content">
   <?php

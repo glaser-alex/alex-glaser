@@ -1,9 +1,17 @@
 * {
     box-sizing: border-box;
-    font-family: Arial, sans-serif;
 }
 html {
     height: 100%;
+    font-family: Arial, sans-serif;
+}
+@font-face {
+    font-family: Ubuntu;
+    src: url(../font/Ubuntu/Ubuntu-Light.ttf);
+}
+.release {
+    font-family: Ubuntu;
+    position: absolute; top: 0px; left: 10px;
 }
 body {
     height: 85%;
@@ -74,6 +82,9 @@ input[type=text] {
 @media only screen and (max-width: 900px) {
     *, html, button, input {
         font-size: small;
+    }
+    .release {
+        display: none;
     }
     body {
         height: 90%;
