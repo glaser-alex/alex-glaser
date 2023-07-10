@@ -8,20 +8,33 @@ html {
 body {
     height: 85%;
     height: 850px;
-    width: fit-content;
+    max-width: 900px;
     margin: 50px auto;
     border: 15px solid var(--prim);
 }
 #chatBoxDIV {
     height: 83%;
-    padding: 20px;
+    padding: 10px;
     margin: 20px;
     overflow: auto;
     border: 3px solid var(--prim);
 }
+.messageDIV {
+    width: fit-content;
+    padding: 0px 10px;
+    border-radius: 5px;
+    background-color: #ececec;
+    border: 3px solid white;
+}
+.messageMitImg {
+    padding: 20px 20px 0 20px;
+}
 .messageTime {
     color: gray;
     font-size: x-small;
+}
+.messageMitImg .messageTime {
+    position: relative; bottom: 13px;
 }
 .form {
     padding: 0 20px;
@@ -41,13 +54,13 @@ label {
     border-radius: 5px;
     background-color: var(--prim);
 }
-#upload {
+#fileToUpload {
     opacity: 0;
     z-index: -1;
     position: absolute;
 }
 input[type=text] {
-    width: 600px;
+    width: 674px;
 }
 #scrollButton, input[type=submit] {
     padding: 6px;
@@ -59,7 +72,7 @@ input[type=text] {
     width: 100%;
 }
 
-@media only screen and (max-width: 800px) {
+@media only screen and (max-width: 900px) {
     *, html, button, input {
         font-size: small;
     }
@@ -74,7 +87,7 @@ input[type=text] {
         margin: 0 20px 20px 20px;
     }
     input[type=text] {
-        width: 234px;
+        width: 65%;
     }
 }
 

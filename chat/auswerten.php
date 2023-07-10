@@ -1,7 +1,7 @@
 <?php
     session_start();
     // $_POST = array_map('htmlspecialchars', $_POST);
-    // echo "<pre>".print_r($_POST)."</pre>";
+    echo "<pre>".print_r($_POST)."</pre>";
     $username = @$_SESSION['username'];
 
     if ($_SESSION['username'] == 'admin') {
@@ -13,22 +13,18 @@
     $dateiname = "./chat.txt";
     if ($_POST['submit']) {
 
-        if (empty($_POST['file']) && empty($_POST['message'])) {
-            header("Location: ./chat.php");
-            exit();
-        }
-
         $date = date('(H:i) ');
         $datei = fopen($dateiname, "a");
+        flock($datei, LOCK_EX);
 
-        if (isset($_POST["file"])) {
+        if (!empty($_FILES["fileToUpload"]["name"])) {
             $target_dir = "uploads/";
             $target_file = $target_dir . basename($_FILES["fileToUpload"]["name"]);
             $uploadOk = 1;
             $imageFileType = strtolower(pathinfo($target_file,PATHINFO_EXTENSION));
-            
+
+
             // Check if image file is a actual image or fake image
-            if(isset($_POST["submit"])) {
             $check = getimagesize($_FILES["fileToUpload"]["tmp_name"]);
             if($check !== false) {
                 echo "File is an image - " . $check["mime"] . ".";
@@ -37,12 +33,12 @@
                 echo "File is not an image.";
                 $uploadOk = 0;
             }
-            }
             
             // Check if file already exists / Upload
             if (!file_exists($target_file)) {
+                echo "Test";
                 if (move_uploaded_file($_FILES["fileToUpload"]["tmp_name"], $target_file)) {
-                    echo "The file ". htmlspecialchars( basename( $_FILES["fileToUpload"]["name"])). " has been uploaded.";
+                    echo "The file ". htmlspecialchars(basename( $_FILES["fileToUpload"]["name"])). " has been uploaded.";
                 } else {
                     echo "Sorry, there was an error uploading your file.";
                 }
@@ -65,22 +61,22 @@
                 echo "Sorry, your file was not uploaded.";
                 // if everything is ok, try to upload file
             } else {
-                    flock($datei, LOCK_EX);
                     if (filesize($dateiname) < 3) {
-                        fputs($datei, "<span class='messageTime'>".$date."</span><img src='./uploads/".$_FILES['fileToUpload']['name']."' width='250'>".$_POST['message']."\n\n");
+                        fputs($datei, "<div class='messageDIV messageMitImg'><img src='./uploads/".$_FILES['fileToUpload']['name']."' width='250'><br>".$_POST['message']."<br><span class='messageTime'>".$date."</span></div>\n\n");
                     } else {
-                        fputs($datei, "<br><span class='messageTime'>".$date."</span><img src='./uploads/".$_FILES['fileToUpload']['name']."' width='250'>".$_POST['message']."\n\n");
+                        fputs($datei, "<div class='messageDIV messageMitImg'><img src='./uploads/".$_FILES['fileToUpload']['name']."' width='250'><br>".$_POST['message']."<br><span class='messageTime'>".$date."</span></div>\n\n");
                     }
             }            
         } else {
-            
-            flock($datei, LOCK_EX);
-            if (filesize($dateiname) < 3) {
-                fputs($datei, "<span class='messageTime'>".$date."</span>".$username." ".$_POST['message']."\n\n");
+            if (empty($_POST['message'])) {
+                header("Location: ./chat.php");
             } else {
-                fputs($datei, "<br><span class='messageTime'>".$date."</span>".$username." ".$_POST['message']."\n\n");
+                if (filesize($dateiname) < 5) {
+                    fputs($datei, "<div class='messageDIV'><span class='messageTime'>".$date."</span>".$username." ".$_POST['message']."</div>\n\n");
+                } else {
+                    fputs($datei, "<div class='messageDIV'><span class='messageTime'>".$date."</span>".$username." ".$_POST['message']."</div>\n\n");
+                }
             }
-            
         }
         
         flock($datei, LOCK_UN);
