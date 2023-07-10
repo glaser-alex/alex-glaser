@@ -28,7 +28,7 @@
   <form action="./auswerten.php" method="post" enctype="multipart/form-data">
     <label for="fileToUpload">Upload</label>
     <input type="file" name="fileToUpload" id="fileToUpload">
-    <input type="text" name="message" placeholder="Sag dem alex, wie gern du ihn hast" autofocus>
+    <input type="text" name="message" placeholder="Schreibe eine Nachricht an alex..." autofocus>
     <input type="submit" name="submit" value="Senden">
   </form>
   <br>
