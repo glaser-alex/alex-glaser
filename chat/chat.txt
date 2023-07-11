@@ -1,0 +1,2 @@
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:55)</span> Guten morgen und viel spaß in der Arbeit </div>
+
