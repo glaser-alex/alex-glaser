@@ -9,7 +9,7 @@
         $backgroundColor = "#31a2d630";
     } else {
         $username = "<b style='color: pink'>valentina❀:</b>";
-        $backgroundColor = "#ececec";
+        $backgroundColor = "#ffc0cb30";
     }
     
     $dateiname = "./chat.txt";

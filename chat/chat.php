@@ -21,7 +21,8 @@
 <div id="chatBoxDIV">
   <div id="content">
   <?php
-        echo file_get_contents("./chat.txt");
+    $dateiname = "./chat.txt";
+      if (file_exists($dateiname)) { echo file_get_contents($dateiname); }
     ?>
   </div>
 </div>
