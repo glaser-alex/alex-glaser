@@ -33,7 +33,7 @@
     <input type="submit" name="submit" value="Senden">
   </form>
   <br>
-  <button onclick="Autoscroll()" id="scrollButton">Autoscroll <span id='on-off'>OFF</span></button>
+  <button id="scrollButton">(vorrübergehend ausgeschalten) Autoscroll <span id='on-off'>OFF</span></button>
 </div>
 </body>
 <?php
@@ -47,7 +47,7 @@
 </html>
 <script type="text/javascript">
 
-// setInterval(scrollToBottom, 0);
+setInterval(scrollToBottom, 0);
 
 function Autoscroll() {
 var x = document.getElementById("on-off");

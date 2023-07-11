@@ -4,3 +4,25 @@
 
 <div class='messageDIV' style='background: #ececec'><span class='messageTime'>(11:16) </span><b style='color: pink'>valentina❀:</b> und was machst du</div>
 
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:18) </span><b style='color: #31a2d6'>alex:</b> essen</div>
+
+<div class='messageDIV' style='background: #ececec'><span class='messageTime'>(11:18) </span><b style='color: pink'>valentina❀:</b> was</div>
+
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:19) </span><b style='color: #31a2d6'>alex:</b> pizza</div>
+
+<div class='messageDIV' style='background: #ececec'><span class='messageTime'>(11:19) </span><b style='color: pink'>valentina❀:</b> ok guten..</div>
+
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:19) </span><b style='color: #31a2d6'>alex:</b> bei mir funktioniert das automatische laden der Nachrichten nimmer</div>
+
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:19) </span><b style='color: #31a2d6'>alex:</b> bei dir auch?</div>
+
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:19) </span><b style='color: #31a2d6'>alex:</b> danke</div>
+
+<div class='messageDIV' style='background: #ececec'><span class='messageTime'>(11:20) </span><b style='color: pink'>valentina❀:</b> ja, ne funktioniert bei mir auch nicht, ich tipp immer tausend mal auf das autoscroll, damit es lädt idk</div>
+
+<div class='messageDIV' style='background: #ececec'><span class='messageTime'>(11:20) </span><b style='color: pink'>valentina❀:</b> ich hab keine schöne hintergrundfarbe </div>
+
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:21) </span><b style='color: #31a2d6'>alex:</b> ever es funktioniert nicht wenn er aus ist</div>
+
+<div class='messageDIV' style='background: #ececec'><span class='messageTime'>(11:22) </span><b style='color: pink'>valentina❀:</b> wer is er</div>
+
