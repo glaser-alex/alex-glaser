@@ -12,15 +12,16 @@
 <div class="release">
   <h2>Release Notes</h2>
   <p>
-    v.1.1.7: Message mit Hintergrundfarbe.
+    v.1.0.7: Image Upload
+  </p>
+  <p>
+    v.1.1.7: Message with background colour.
   </p>
 </div>
 <div id="chatBoxDIV">
   <div id="content">
   <?php
-        $dateiname = "./chat.txt";
-        $daten = file_get_contents($dateiname);
-        echo $daten;
+        echo file_get_contents("./chat.txt");
     ?>
   </div>
 </div>

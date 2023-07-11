@@ -9,16 +9,17 @@ html {
     font-family: Ubuntu;
     src: url(../font/Ubuntu/Ubuntu-Light.ttf);
 }
-.release {
-    font-family: Ubuntu;
-    position: absolute; top: 0px; left: 10px;
-}
 body {
     height: 85%;
     height: 850px;
     max-width: 900px;
     margin: 50px auto;
     border: 15px solid var(--prim);
+}
+.release {
+    font-family: Ubuntu;
+    line-height: 0.5rem;
+    position: absolute; top: 0px; left: 10px;
 }
 #chatBoxDIV {
     height: 83%;

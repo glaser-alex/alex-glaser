@@ -1,2 +1,6 @@
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:55)</span> Guten morgen und viel spaß in der Arbeit </div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:26) </span><b style='color: #31a2d6'>alex:</b> Guten morgen und viel spaß in der Arbeit </div>
+
+<div class='messageDIV' style='background: #ececec'><span class='messageTime'>(11:10) </span><b style='color: pink'>valentina❀:</b> danke...</div>
+
+<div class='messageDIV' style='background: #ececec'><span class='messageTime'>(11:16) </span><b style='color: pink'>valentina❀:</b> und was machst du</div>
 
