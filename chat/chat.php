@@ -84,14 +84,14 @@ function scrollToBottom() {
 // jQuery Document
 $(document).ready(function(){
 
-  //Load the file containing the chat log
+  //Load the file containing the chat txt
   function loadLog(){
 		var oldscrollHeight = $("#content").attr("scrollHeight") - 20;
 		$.ajax({
 			url: "./chat.txt",
 			cache: false,
 			success: function(txt){		
-				$("#content").html(txt); //Insert chat log into the #chatBox div
+				$("#content").html(txt); //Insert chat txt into the #chatBox div
 		  },
 		});
 	}
