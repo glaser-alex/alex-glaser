@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="./style.css">
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
-    <title>Chat</title>
+    <title>ValexChat</title>
 </head>
 <body>
 <div class="release">
@@ -17,7 +17,19 @@
   <p>
     v.1.1.7: Message with background colour.
   </p>
+  <p>
+    v.1.3.7: Angemeldet als.
+  </p>
 </div>
+  <?php
+    error_reporting(E_ALL && ~E_WARNING);
+    if ($_SESSION['username'] == 'admin') {
+      $username = "<b style='color: #31a2d6'>alex</b>";
+    } else {
+      $username = "<b style='color: pink'>valentina❀</b>";
+    }
+  ?>
+<div class="angemeldetAls">Angemeldet als: <?php echo $username ?></div>
 <div id="chatBoxDIV">
   <div id="content">
   <?php
@@ -48,7 +60,7 @@
 </html>
 <script type="text/javascript">
 
-setInterval(scrollToBottom, 0);
+// setInterval(scrollToBottom, 0);
 
 function Autoscroll() {
 var x = document.getElementById("on-off");

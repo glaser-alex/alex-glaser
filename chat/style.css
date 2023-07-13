@@ -21,8 +21,11 @@ body {
     line-height: 0.5rem;
     position: absolute; top: 0px; left: 10px;
 }
+.angemeldetAls {
+    margin: 20px;
+}
 #chatBoxDIV {
-    height: 83%;
+    height: 77%;
     padding: 10px;
     margin: 20px;
     overflow: auto;

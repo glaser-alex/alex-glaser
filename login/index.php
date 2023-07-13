@@ -16,9 +16,9 @@
 <?php
     session_start();
     $_POST = array_map('htmlspecialchars', $_POST);
-    $username = $_SESSION['username'] = @$_POST['username'];
     $password = $_SESSION['password'] = @$_POST['password'];
     $anmelden = $_SESSION['anmelden'] = @$_POST['anmelden'];
+    $username = $_SESSION['username'] = @$_POST['username'];
     
     require("../inc/db_init.php");
 
@@ -96,7 +96,8 @@
         $datum = date("d.m.Y");
         $uhrzeit = date("H:i:s");
         $dateiname = '../administration/registrierungen.txt';
-        if (isset($anmelden) && $username != 'admin') {
+        $adminpwd = file_get_contents("../administration/adminpwd.txt");
+        if (isset($anmelden) && $username != 'admin' && $password = $adminpwd) {
           if (!file_exists($dateiname)) {
             $dateizeiger = fopen($dateiname, 'w+');
           } else {
