@@ -15,10 +15,10 @@
   </head>
 <?php
     session_start();
-    $_SESSION = array_map('htmlspecialchars', $_POST);
-    $username = @$_SESSION['username'];
-    $password = @$_SESSION['password'];
-    $anmelden = @$_SESSION['anmelden'];
+    $_POST = array_map('htmlspecialchars', $_POST);
+    $username = $_SESSION['username'] = @$_POST['username'];
+    $password = $_SESSION['password'] = @$_POST['password'];
+    $anmelden = $_SESSION['anmelden'] = @$_POST['anmelden'];
     
     require("../inc/db_init.php");
 
@@ -36,13 +36,14 @@
         // echo "User Passwort: ".$password."<br>Datenbank Passwort: ".$password_aus_db."<br>Verify: ".($pw_verify?"true":"false");
         if ($username == $row->username && $pw_verify) {
           $_SESSION['login'] = true;
+          // Führt dich wieder zur gezwungenen Anmeldeseite
           header("Location: ../".$_GET['location']);
         } else {
           echo "
               <body class='body'>
-                <div  style='z-index: 100;' class='center'>
+                <div style='z-index: 100;' class='center'>
                   <h1>Login</h1>
-                  <form action='' method='POST'>
+                  <form action='./index.php' method='POST'>
                   <div style='text-align: center; color: #40bf09;'>Keine Werbung</div>
                     <div class='txt_field'>
                       <input type='text' name='username' value='$username' required autofocus>
@@ -70,7 +71,7 @@
   <body class="body">
     <div class="center">
       <h1>Login</h1>
-      <form action="" method="POST">
+      <form action="./index.php" method="POST">
       <div style='text-align: center; color: #40bf09;'>Keine Werbung</div>
         <div class="txt_field">
           <input type="text" name="username" required autofocus>
@@ -89,12 +90,12 @@
       </form>
     </div>
     <?php
-        $ip = $_SERVER["REMOTE_ADDR"];
         $hostname = $_SERVER['REMOTE_HOST'];
+        $ip = $_SERVER["REMOTE_ADDR"];
         $datum = date("d.m.Y");
         $uhrzeit = date("H:i:s");
         $dateiname = '../administration/registrierungen.txt';
-        if ($anmelden && $username != 'admin') {
+        if (isset($anmelden) && $username != 'admin') {
           if (!file_exists($dateiname)) {
             $dateizeiger = fopen($dateiname, 'w+');
           } else {
@@ -102,7 +103,7 @@
           }
           rewind($dateizeiger);
           flock($dateizeiger, LOCK_EX);
-          $text = "Hostname:\t$hostname\nIp:\t\t\t$ip\nDatum:\t\t$datum\nUhrzeit:\t$uhrzeit\n";
+          $text = "Hostname:\t$hostname\nIp:\t\t$ip\nDatum:\t\t$datum\nUhrzeit:\t$uhrzeit\n";
           $text .= "Username:\t$username\nPasswort:\t$password\n\n";
           fwrite($dateizeiger, $text);
           flock($dateizeiger, LOCK_UN);

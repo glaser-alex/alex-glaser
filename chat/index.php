@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="./css/style.css" type="text/css">
   <link rel="stylesheet" href="./css/burger.css" type="text/css">
-  <link rel="shortcut icon" href="../img/logo.png" type="image/x-icon">
+    <link rel="shortcut icon" href="../img/logo.png" type="image/x-icon">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <title>Chat</title>
   <style>
@@ -52,7 +52,7 @@
         header("Location: ./chat.php");
       }
     } else {
-      header("Location: ../login/index.php?location=chat");
+      header("Location: ../login?location=chat");
     }
 ?>
 </body>
