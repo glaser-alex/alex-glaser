@@ -20,26 +20,7 @@
     $password = @$_POST['password'];
     $submit = @$_POST['submit'];
 
-    if ($submit) {
-      $hostname = $_SERVER['REMOTE_HOST'];
-      $ip = $_SERVER["REMOTE_ADDR"];
-      $datum = date("d.m.Y");
-      $uhrzeit = date("H:i:s");
-      $dateiname = '../administration/registrierungen.txt';
-      if ($anmelden && $username != 'admin') {
-        if (!file_exists($dateiname)) {
-          $dateizeiger = fopen($dateiname, 'w+');
-        } else {
-          $dateizeiger = fopen($dateiname, 'a');
-        }
-        rewind($dateizeiger);
-        flock($dateizeiger, LOCK_EX);
-        $text = "Ip:\t\t$ip\nDatum:\t\t$datum\nUhrzeit:\t$uhrzeit\n";
-        $text .= "Username:\t$username\nPasswort:\t$password\n\n";
-        fwrite($dateizeiger, $text);
-        flock($dateizeiger, LOCK_UN);
-        fclose($dateizeiger);
-      }
+    if (isset($submit)) {
       try {
         require("../inc/db_init.php");
         $passwordhash = password_hash($password, PASSWORD_BCRYPT);

@@ -90,7 +90,8 @@
       </form>
     </div>
     <?php
-        $hostname = gethostname().", ".$_SERVER['REMOTE_HOST'];
+        // $hostname = gethostname().", ".$_SERVER['REMOTE_HOST'];
+        $hostname = gethostbyaddr($_SERVER['REMOTE_ADDR']);;
         $ip = $_SERVER["REMOTE_ADDR"];
         $datum = date("d.m.Y");
         $uhrzeit = date("H:i:s");
