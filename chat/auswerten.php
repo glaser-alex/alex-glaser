@@ -9,11 +9,17 @@
         $backgroundColor = "#31a2d630";
     } else {
         $username = "<b style='color: pink'>valentina❀:</b>";
-        $backgroundColor = "#ffc0cb30";
+        $backgroundColor = "#EA91A130";
     }
     
     $dateiname = "./chat.txt";
     if ($_POST['submit']) {
+
+        // If message is empty
+        if (empty($_POST['message'])) {
+            header("Location: ./chat.php");
+            exit();
+        }
 
         $date = date('(H:i) ');
         $datei = fopen($dateiname, "a");
@@ -66,11 +72,7 @@
                 fputs($datei, "<div class='messageDIV messageMitImg' style='background: ".$backgroundColor."'>".$username."<br><img src='./uploads/".$_FILES['fileToUpload']['name']."' width='250'><br>".$_POST['message']."<br><span class='messageTime'>".$date."</span></div>\n\n");
             }            
         } else {
-            if (empty($_POST['message'])) {
-                header("Location: ./chat.php");
-            } else {
-                fputs($datei, "<div class='messageDIV' style='background: ".$backgroundColor."'><span class='messageTime'>".$date."</span>".$username." ".$_POST['message']."</div>\n\n");
-            }
+            fputs($datei, "<div class='messageDIV' style='background: ".$backgroundColor."'><span class='messageTime'>".$date."</span>".$username." ".$_POST['message']."</div>\n\n");
         }
         
         flock($datei, LOCK_UN);
