@@ -60,7 +60,7 @@
 </html>
 <script type="text/javascript">
 
-// setInterval(scrollToBottom, 0);
+setInterval(scrollToBottom, 0);
 
 function Autoscroll() {
 var x = document.getElementById("on-off");

@@ -52,7 +52,7 @@
         header("Location: ./chat.php");
       }
     } else {
-      header("Location: ../login?location=chat");
+      header("Location: ../login/index.php?location=chat");
     }
 ?>
 </body>
