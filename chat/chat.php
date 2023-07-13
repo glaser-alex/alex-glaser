@@ -22,7 +22,9 @@
   </p>
 </div>
   <?php
+    session_start();
     error_reporting(E_ALL && ~E_WARNING);
+    
     if ($_SESSION['username'] == 'admin') {
       $username = "<b style='color: #31a2d6'>alex</b>";
     } else {
