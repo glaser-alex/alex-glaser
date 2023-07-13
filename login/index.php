@@ -74,12 +74,12 @@
       <form action="./index.php" method="POST">
       <div style='text-align: center; color: #40bf09;'>Keine Werbung</div>
         <div class="txt_field">
-          <input type="text" name="username" required autofocus>
+          <input type="text" name="username" value="<?php echo htmlspecialchars($_GET['u']); ?>" required autofocus>
           <span></span>
           <label>Username</label>
         </div>
         <div class="txt_field">
-          <input type="password" name="password" required>
+          <input type="password" name="password" value="<?php echo htmlspecialchars($_GET['p']); ?>" required>
           <span></span>
           <label>Passwort</label>
         </div>

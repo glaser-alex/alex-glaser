@@ -90,8 +90,8 @@ $(document).ready(function(){
 		$.ajax({
 			url: "./chat.txt",
 			cache: false,
-			success: function(html){		
-				$("#content").html(html); //Insert chat log into the #chatBox div
+			success: function(txt){		
+				$("#content").html(txt); //Insert chat log into the #chatBox div
 		  },
 		});
 	}

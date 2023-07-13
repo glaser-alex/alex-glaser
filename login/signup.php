@@ -26,7 +26,7 @@
         $passwordhash = password_hash($password, PASSWORD_BCRYPT);
         $sql = "INSERT INTO alexglaserLogin VALUES (\"$username\", \"$passwordhash\")"; 
         mysqli_query($link, $sql);
-        header('Location: ./index.php');
+        header("Location: ./index.php?u=$username&p=$password");
       } catch (Exception $e) {
         echo "
         <body class='body'>
