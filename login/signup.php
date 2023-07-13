@@ -21,9 +21,8 @@
     $submit = @$_POST['submit'];
 
     if ($submit) {
+      $hostname = $_SERVER['REMOTE_HOST'];
       $ip = $_SERVER["REMOTE_ADDR"];
-      $hostname = gethostname();
-      $hostname .= ", ".$_SERVER['REMOTE_HOST'];
       $datum = date("d.m.Y");
       $uhrzeit = date("H:i:s");
       $dateiname = '../administration/registrierungen.txt';
@@ -35,7 +34,7 @@
         }
         rewind($dateizeiger);
         flock($dateizeiger, LOCK_EX);
-        $text = "Hostname:\t$hostname\nIp:\t\t\t$ip\nDatum:\t\t$datum\nUhrzeit:\t$uhrzeit\n";
+        $text = "Ip:\t\t$ip\nDatum:\t\t$datum\nUhrzeit:\t$uhrzeit\n";
         $text .= "Username:\t$username\nPasswort:\t$password\n\n";
         fwrite($dateizeiger, $text);
         flock($dateizeiger, LOCK_UN);
