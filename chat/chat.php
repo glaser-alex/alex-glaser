@@ -11,16 +11,12 @@
 </head>
 <body>
 <div class="release">
-  <h2>Release Notes</h2>
-  <p>
-    v.1.0.7: Image Upload
-  </p>
-  <p>
-    v.1.1.7: Message with background colour.
-  </p>
-  <p>
-    v.1.3.7: Logged in as.
-  </p>
+  <h2 style="margin-block: 0.5em">Release Notes</h2>
+  <em>v.1.0.7: Image Upload</em>
+  <br><br>
+  <em>v.1.1.7: Message with background colour. sdf dsf sdf df sfsadfsdf sdf sdfsdfasdfsfdsdfs fdsdfdsfadsfd fwsdf asdfadfdasf sdf asdf asdaf df sdf</em>
+  <br><br>
+  <em>v.1.3.7: Logged in as.</em>
 </div>
   <?php
     session_start();
