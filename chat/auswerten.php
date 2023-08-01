@@ -16,7 +16,7 @@
     if ($_POST['submit']) {
 
         // If message is empty
-        if (empty($_POST['message'])) {
+        if (empty($_POST['message']) && empty($_FILES["fileToUpload"]["name"])) {
             header("Location: ./chat.php");
             exit();
         }
@@ -71,6 +71,14 @@
             } else {
                 fputs($datei, "<div class='messageDIV messageMitImg' style='background: ".$backgroundColor."'>".$username."<br><img src='./uploads/".$_FILES['fileToUpload']['name']."' width='250'><br>".$_POST['message']."<br><span class='messageTime'>".$date."</span></div>\n\n");
             }            
+        }
+        
+        // If message is empty
+        if (empty($_POST['message'])) {
+            flock($datei, LOCK_UN);
+            fclose($datei);
+            header("Location: ./chat.php");
+            exit();
         } else {
             fputs($datei, "<div class='messageDIV' style='background: ".$backgroundColor."'><span class='messageTime'>".$date."</span>".$username." ".$_POST['message']."</div>\n\n");
         }

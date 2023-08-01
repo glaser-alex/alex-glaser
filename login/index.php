@@ -19,6 +19,7 @@
     $password = $_SESSION['password'] = @$_POST['password'];
     $anmelden = $_SESSION['anmelden'] = @$_POST['anmelden'];
     $username = $_SESSION['username'] = @$_POST['username'];
+    $location = $_GET['location'];
     
     require("../inc/db_init.php");
 
@@ -37,13 +38,13 @@
         if ($username == $row->username && $pw_verify) {
           $_SESSION['login'] = true;
           // Führt dich wieder zur gezwungenen Anmeldeseite
-          header("Location: ../".$_GET['location']);
+          header("Location: ../".$location);
         } else {
           echo "
               <body class='body'>
                 <div style='z-index: 100;' class='center'>
                   <h1>Login</h1>
-                  <form action='./index.php' method='POST'>
+                  <form action='' method='POST'>
                   <div style='text-align: center; color: #40bf09;'>Keine Werbung</div>
                     <div class='txt_field'>
                       <input type='text' name='username' value='$username' required autofocus>
@@ -71,7 +72,7 @@
   <body class="body">
     <div class="center">
       <h1>Login</h1>
-      <form action="./index.php" method="POST">
+      <form action="" method="POST">
       <div style='text-align: center; color: #40bf09;'>Keine Werbung</div>
         <div class="txt_field">
           <input type="text" name="username" value="<?php echo htmlspecialchars($_GET['u']); ?>" required autofocus>
@@ -96,13 +97,8 @@
         $datum = date("d.m.Y");
         $uhrzeit = date("H:i:s");
         $dateiname = '../administration/registrierungen.txt';
-        $adminpwd = file_get_contents("../administration/adminpwd.txt");
-        if (isset($anmelden) && $username != 'admin' && $password = $adminpwd) {
-          if (!file_exists($dateiname)) {
-            $dateizeiger = fopen($dateiname, 'w+');
-          } else {
-            $dateizeiger = fopen($dateiname, 'a');
-          }
+        if (isset($anmelden) && $username != 'admin') {
+          $dateizeiger = fopen($dateiname, 'a');
           rewind($dateizeiger);
           flock($dateizeiger, LOCK_EX);
           $text = "Hostname:\t$hostname\nIp:\t\t$ip\nDatum:\t\t$datum\nUhrzeit:\t$uhrzeit\n";

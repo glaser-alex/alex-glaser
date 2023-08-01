@@ -21,38 +21,18 @@
     $submit = @$_POST['submit'];
 
     if (isset($submit)) {
-      try {
-        require("../inc/db_init.php");
-        $passwordhash = password_hash($password, PASSWORD_BCRYPT);
-        $sql = "INSERT INTO alexglaserLogin VALUES (\"$username\", \"$passwordhash\")"; 
-        mysqli_query($link, $sql);
-        header("Location: ./index.php?u=$username&p=$password");
-      } catch (Exception $e) {
-        echo "
-        <body class='body'>
-        <div class='center'>
-          <h1>Registrieren</h1>
-          <form action='./signup.php' method='POST'>
-          <div style='text-align: center; color: lime;'>Keine Werbung</div>
-            <div class='txt_field'>
-              <input type='text' name='username' required autofocus>
-              <span></span>
-              <label>Username</label>
-            </div>
-            <div class='txt_field'>
-              <input type='password' name='password' required>
-              <span></span>
-              <label>Password</label>
-            </div>
-            <input type='submit' name='submit' value='Signup'>
-            <div class='signup_link'><h4 style='color: red;'>Username schon vergeben</h4></div>
-            <div class='signup_link'>
-              Zurück zum <a href='./index.php'>Login</a>
-            </div>
-          </form>
-        </div>
-        ";
-        exit();
+      if ($username == $password) {
+        $errMessage = "Username und Passwort darf nicht identisch sein";
+      } else {
+        try {
+          require("../inc/db_init.php");
+          $passwordhash = password_hash($password, PASSWORD_BCRYPT);
+          $sql = "INSERT INTO alexglaserLogin VALUES (\"$username\", \"$passwordhash\")"; 
+          mysqli_query($link, $sql);
+          header("Location: ./index.php?u=$username&p=$password");
+        } catch (Exception $e) {
+          $errMessage = "Username schon vergeben";
+        }
       }
     }
   ?>
@@ -71,6 +51,9 @@
           <label>Password</label>
         </div>
         <input type="submit" name="submit" value="Signup">
+        <div class='signup_link'>
+          <h4 style='color: red;'><?php echo $errMessage ?></h4>
+        </div>
         <div class='signup_link'>
           Zurück zum <a href='./index.php'>Login</a>
         </div>
