@@ -13,7 +13,7 @@ body {
     height: 85%;
     height: 850px;
     max-width: 900px;
-    margin: 50px auto;
+    margin: 50px auto !important;
     border: 15px solid var(--prim);
 }
 .release {
