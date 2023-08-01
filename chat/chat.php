@@ -30,7 +30,7 @@
     }
   ?>
 <div class="angemeldetAls">Angemeldet als: <?php echo $username ?></div>
-<div id="chatBoxDIV">
+<div id="chatBoxDIV" class="chatBoxDIV">
   <div id="content">
     <?php
       $dateiname = "./chat.txt";

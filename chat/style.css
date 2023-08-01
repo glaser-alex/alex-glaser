@@ -25,7 +25,7 @@ body {
 .angemeldetAls {
     margin: 10px 20px;
 }
-#chatBoxDIV {
+.chatBoxDIV {
     height: 85%;
     padding: 10px;
     margin: 0 20px;
@@ -109,9 +109,12 @@ input[type=text] {
         margin: 20px auto;
         border: 0 solid var(--prim);
     }
-    #chatBoxDIV {
+    .chatBoxDIV {
         height: 90%;
         margin: 0 20px 20px 20px;
+    }
+    .chatBoxDIVfocus {
+        height: 40vh;
     }
     .form {
         padding: 0 20px;
