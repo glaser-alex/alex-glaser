@@ -39,7 +39,6 @@
     <div class="center">
       <h1>Registrieren</h1>
       <form action="./signup.php" method="POST">
-        <div style="text-align: center; color: lime;">Keine Werbung</div>
         <div class="txt_field">
           <input type="text" name="username" required autofocus>
           <span></span>
@@ -56,6 +55,8 @@
         </div>
         <div class='signup_link'>
           Zurück zum <a href='./index.php'>Login</a>
+          <br>
+          <div style="text-align: center; color: lime;">Keine Werbung</div>
         </div>
       </form>
     </div>
