@@ -110,7 +110,7 @@ input[type=text] {
         border: 0 solid var(--prim);
     }
     #chatBoxDIV {
-        height: 60%;
+        height: 90%;
         margin: 0 20px 20px 20px;
     }
     .form {

@@ -281,8 +281,6 @@
 
 <div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:13) </span><b style='color: #31a2d6'>alex:</b> was genau soll ich auf der seite durchlesen</div>
 
-<div class='messageDIV messageMitImg' style='background: #EA91A130'><b style='color: pink'>valentina❀:</b><br><img src='./uploads/adhs.PNG' width='250'><br><br><span class='messageTime'>(10:15) </span></div>
-
 <div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:15) </span><b style='color: pink'>valentina❀:</b> ja die problembereiche </div>
 
 <div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:15) </span><b style='color: pink'>valentina❀:</b> da sind extra bilder </div>
@@ -501,8 +499,6 @@
 
 <div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(12:22) </span><b style='color: pink'>valentina❀:</b> ja, eig nur </div>
 
-<div class='messageDIV messageMitImg' style='background: #EA91A130'><b style='color: pink'>valentina❀:</b><br><img src='./uploads/abschlusskleid ilayda.PNG' width='250'><br><br><span class='messageTime'>(13:47) </span></div>
-
 <div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(13:47) </span><b style='color: pink'>valentina❀:</b> sie hat mir angeboten, dass ich ihr kleid nehmen könnte </div>
 
 <div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(13:47) </span><b style='color: pink'>valentina❀:</b> mir gefällt das silber nicht so an der seite</div>
@@ -518,8 +514,6 @@
 <div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(13:57) </span><b style='color: pink'>valentina❀:</b> naja, die wohnt halt in nsv und dann muss ich das kleid bei ihr holen und wenn ichs nicht will, dann halt wieder zurück geben </div>
 
 <div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(13:57) </span><b style='color: pink'>valentina❀:</b> keine ahnung ob ich so lust darauf hab</div>
-
-<div class='messageDIV messageMitImg' style='background: #EA91A130'><b style='color: pink'>valentina❀:</b><br><img src='./uploads/ilayda abkleid.PNG' width='250'><br><br><span class='messageTime'>(13:58) </span></div>
 
 <div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(13:59) </span><b style='color: pink'>valentina❀:</b> vielleicht siehst du jetzt das silberne besser</div>
 

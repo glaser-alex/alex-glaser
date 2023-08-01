@@ -3,8 +3,9 @@
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0 maximum-scale=1">
     <link rel="stylesheet" href="./style.css">
+    <link rel="shortcut icon" href="../img/logo.png" type="image/x-icon">
     <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3/jquery.min.js"></script>
     <title>vChat</title>
@@ -14,7 +15,7 @@
   <h2 style="margin-block: 0.5em">Release Notes</h2>
   <em>v.1.0.7: Image Upload</em>
   <br><br>
-  <em>v.1.1.7: Message with background colour. sdf dsf sdf df sfsadfsdf sdf sdfsdfasdfsfdsdfs fdsdfdsfadsfd fwsdf asdfadfdasf sdf asdf asdaf df sdf</em>
+  <em>v.1.1.7: Message with background colour.</em>
   <br><br>
   <em>v.1.3.7: Logged in as.</em>
 </div>
@@ -41,7 +42,7 @@
   <form action="./auswerten.php" method="post" enctype="multipart/form-data">
     <label for="fileToUpload">Upload</label>
     <input type="file" name="fileToUpload" id="fileToUpload">
-    <input type="text" name="message" placeholder="Schreibe eine Nachricht..." autofocus>
+    <input type="text" name="message" id="message" placeholder="Schreibe eine Nachricht..." autofocus>
     <input type="submit" name="submit" value="Senden">
   </form>
 </div>
@@ -56,6 +57,17 @@ setInterval(scrollToBottom, 0);
 
 // jQuery Document
 $(document).ready(function(){
+  
+  const message = document.getElementById('message');
+  const chatBox = document.getElementById('chatBoxDIV');
+  message.addEventListener('focusin', (event) => {
+    chatBox.style.height = "50%";
+    chatBox.style.height = "40vh";
+  })
+  
+  message.addEventListener('focusout', (event) => {
+    chatBox.style.height = "90%";
+  })
 
   //Load the file containing the chat log
   function loadLog(){
