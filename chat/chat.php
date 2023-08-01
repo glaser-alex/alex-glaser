@@ -58,16 +58,18 @@ setInterval(scrollToBottom, 0);
 // jQuery Document
 $(document).ready(function(){
   
-  const message = document.getElementById('message');
-  const chatBox = document.getElementById('chatBoxDIV');
-  message.addEventListener('focusin', (event) => {
-    chatBox.style.height = "50%";
-    chatBox.style.height = "40vh";
-  })
-  
-  message.addEventListener('focusout', (event) => {
-    chatBox.style.height = "90%";
-  })
+  if (screen.width <= '900') {
+    const message = document.getElementById('message');
+    const chatBox = document.getElementById('chatBoxDIV');
+    message.addEventListener('focusin', (event) => {
+      chatBox.style.height = "50%";
+      chatBox.style.height = "40vh";
+    })
+    
+    message.addEventListener('focusout', (event) => {
+      chatBox.style.height = "90%";
+    })
+  }
 
   //Load the file containing the chat log
   function loadLog(){
