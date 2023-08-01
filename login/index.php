@@ -21,7 +21,7 @@
     $username = $_SESSION['username'] = @$_POST['username'];
     $location = $_GET['location'];
     
-    require("../inc/db_init.php");
+    // require("../inc/db_init.php");
 
 	if (isset($anmelden)) {
 
@@ -45,7 +45,6 @@
                 <div style='z-index: 100;' class='center'>
                   <h1>Login</h1>
                   <form action='' method='POST'>
-                  <div style='text-align: center; color: #40bf09;'>Keine Werbung</div>
                     <div class='txt_field'>
                       <input type='text' name='username' value='$username' required autofocus>
                       <span></span>
@@ -60,6 +59,8 @@
                     <div class='signup_link'><h4 style='color: red;'>Falsches Passwort oder Username</h4></div>
                     <div class='signup_link'>
                       Noch kein Account? <a href='./signup.php'>Registrieren</a>
+                      <br>
+                      <div style='text-align: center; color: #40bf09;'>Keine Werbung</div>
                     </div>
                   </form>
                 </div>
@@ -73,7 +74,6 @@
     <div class="center">
       <h1>Login</h1>
       <form action="" method="POST">
-      <div style='text-align: center; color: #40bf09;'>Keine Werbung</div>
         <div class="txt_field">
           <input type="text" name="username" value="<?php echo htmlspecialchars($_GET['u']); ?>" required autofocus>
           <span></span>
@@ -87,6 +87,8 @@
         <input type="submit" name="anmelden" value="Login">
         <div class="signup_link">
           Noch kein Account? <a href="./signup.php">Registrieren</a>
+          <br>
+          <div style="text-align: center; color: #40bf09;">Keine Werbung</div>
         </div>
       </form>
     </div>
