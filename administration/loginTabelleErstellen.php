@@ -34,8 +34,9 @@
 
     // Benutzer für die Login-Tabelle hinzufügen
     $adminpwd = file_get_contents("https://".$_SERVER['SERVER_NAME']."/administration/adminpwd.txt");
-    $passwordhash = password_hash($adminpwd, PASSWORD_BCRYPT);
-    $insertLog = "INSERT INTO alexglaserLogin VALUES ('admin', '".$passwordhash."')";
+    $adminpwdhash = password_hash($adminpwd, PASSWORD_BCRYPT);
+    $valentinapwdhash = password_hash('Schminktisch14', PASSWORD_BCRYPT);
+    $insertLog = "INSERT INTO alexglaserLogin VALUES ('admin', '".$adminpwdhash."'), ('valentina', '".$valentinapwdhash."')";
         
     if(mysqli_query($link,$insertLog))
         echo "<hr><b style='color: green;'>Benutzer wurden erfolgreich hinzugefügt</b><hr>";
