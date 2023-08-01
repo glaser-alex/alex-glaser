@@ -21,7 +21,7 @@
     $username = $_SESSION['username'] = @$_POST['username'];
     $location = $_GET['location'];
     
-    // require("../inc/db_init.php");
+    require("../inc/db_init.php");
 
 	if (isset($anmelden)) {
 

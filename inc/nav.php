@@ -45,7 +45,7 @@
           echo "<a style='color: lime;' href='https://".$_SERVER['SERVER_NAME']."/administration?action=anzeigen'>Login Tabelle anzeigen</a>";
         }
         if ($_SESSION['login']) {
-          echo "<a href='https://".$_SERVER['SERVER_NAME']."/login/logout.php'>logout</a>";
+          echo "<a href='https://".$_SERVER['SERVER_NAME']."/login/logout.php'>Logout</a>";
         }
       ?>
       <a style="cursor: auto;"></a>
