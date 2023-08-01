@@ -36,7 +36,7 @@
       <a href="./?cookie=reset">Cookie ändern</a>
       <?php
         if (!$_SESSION['login']) {
-          echo "<a href='https://".$_SERVER['SERVER_NAME']."/login'>login</a>";
+          echo "<a href='https://".$_SERVER['SERVER_NAME']."/login'>Login</a>";
         }
         if ($username == 'admin') {
           echo "<a style='color: cyan;' href='https://".$_SERVER['SERVER_NAME']."/administration?action=einträge'>Login Einträge</a>";
