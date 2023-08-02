@@ -37,6 +37,9 @@
         // echo "User Passwort: ".$password."<br>Datenbank Passwort: ".$password_aus_db."<br>Verify: ".($pw_verify?"true":"false");
         if ($username == $row->username && $pw_verify) {
           $_SESSION['login'] = true;
+          if ($_COOKIE['consent'] == 'all') {
+            setcookie('username', $username, null, "/");
+          }
           // Führt dich wieder zur gezwungenen Anmeldeseite
           header("Location: ../".$location);
         } else {

@@ -1,579 +1,219 @@
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(07:31) </span><b style='color: #31a2d6'>alex:</b> Hallo</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(07:37) </span><b style='color: pink'>valentina❀:</b> hallo alex, gibt leider kein Ferienarbeiten bei uns</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(07:54) </span><b style='color: #31a2d6'>alex:</b> muss ich dann eigentlich dein dirndl midnemma oder ned, weil wir ja erst sonntag ins folksfest gehen</div>
+<div class='messageDIV messageMitImg' style='background: #EA91A130'><b style='color: pink'>valentina❀:</b><br><img src='./uploads/Netzsch Ferienarbeit.PNG' width='250'><br><br><span class='messageTime'>(07:46) </span></div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(08:15) </span><b style='color: pink'>valentina❀:</b> hä aber alex</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:12) </span><b style='color: #31a2d6'>alex:</b> wie finde ich da jetzt heraus was genau die anbieten?</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(08:15) </span><b style='color: pink'>valentina❀:</b> warum sagst du dann zu mir, dass das am samstag is</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:14) </span><b style='color: #31a2d6'>alex:</b> soll ich mal anrufen und nachfragen?</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(08:15) </span><b style='color: pink'>valentina❀:</b> du depp</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:20) </span><b style='color: #31a2d6'>alex:</b> dann könnte ichs mir aussuchen</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(08:16) </span><b style='color: pink'>valentina❀:</b> das nervt mich, dass du mir das jetzt erst sagst</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:30) </span><b style='color: #31a2d6'>alex:</b> aber erst mal tabletten nehmen</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:16) </span><b style='color: #31a2d6'>alex:</b> scheiße ich habs mir falsch in den kalender eingetragen</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:00) </span><b style='color: pink'>valentina❀:</b> gute frage, weil auf jetzt bewerben stehen keine genauen angaben da </div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:16) </span><b style='color: #31a2d6'>alex:</b> ich war auch überrascht</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:00) </span><b style='color: pink'>valentina❀:</b> guter junge </div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:16) </span><b style='color: #31a2d6'>alex:</b> es tut mir so leid</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:00) </span><b style='color: pink'>valentina❀:</b> also vielleicht kannst du nur bei dem textfeld sagen, was genau du machen wollen würdest</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:16) </span><b style='color: #31a2d6'>alex:</b> bist du jetzt sauer?</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:04) </span><b style='color: #31a2d6'>alex:</b> soll ich mal anrufen?</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(08:19) </span><b style='color: pink'>valentina❀:</b> ja, weil ich mich eig darauf gefreut hab</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:06) </span><b style='color: pink'>valentina❀:</b> Ja, würd ich schon machen:)</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(08:19) </span><b style='color: pink'>valentina❀:</b> aber, komisch, dass am freitag zu machen</div>
+<div class='messageDIV messageMitImg' style='background: #EA91A130'><b style='color: pink'>valentina❀:</b><br><img src='./uploads/Ferienarbeit.PNG' width='250'><br><br><span class='messageTime'>(10:07) </span></div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:19) </span><b style='color: #31a2d6'>alex:</b> es tut mir so leid</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:10) </span><b style='color: pink'>valentina❀:</b> kurzfristige beschäftigung verdient man warscheinlich weniger als vollzeit</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:20) </span><b style='color: #31a2d6'>alex:</b> dass ich dich jetzt entteuscht habe</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:10) </span><b style='color: #31a2d6'>alex:</b> kurzfristige beschäftigung verdient man warscheinlich weniger als vollzeit</div>
 
-<br><span style='font-size: x-small'>(08:25) </span><b style='color: #31a2d6'>alex:</b> was ist denn mit dem chat los
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:10) </span><b style='color: #31a2d6'>alex:</b> oder?</div>
 
-<br><span style='font-size: x-small'>(08:25) </span><b style='color: #31a2d6'>alex:</b> alles verbuggt
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:11) </span><b style='color: #31a2d6'>alex:</b> ich muss das unbeding fixen, das ich nicht dein namen habe</div>
 
-<br><span style='font-size: x-small'>(08:27) </span><b style='color: pink'>valentina❀:</b> alles komisch alex
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:14) </span><b style='color: pink'>valentina❀:</b> ja du bist ja dann kurzfristig beschäftigt, wenn du nur 1 woche da arbeitest</div>
 
-<br><span style='font-size: x-small'>(08:27) </span><b style='color: pink'>valentina❀:</b> ja dann viel spass beim sparlier stehen, ist dein papa auch dabei?
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:14) </span><b style='color: pink'>valentina❀:</b> oder nicht</div>
 
-<br><span style='font-size: x-small'>(08:28) </span><b style='color: #31a2d6'>alex:</b> nein
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:15) </span><b style='color: #31a2d6'>alex:</b> achso ich dachte kurzfristig ist auf die stunden am tag bezogen</div>
 
-<br><span style='font-size: x-small'>(08:28) </span><b style='color: pink'>valentina❀:</b> und nein dann musst du natürlich nicht mein dirndl mitnehmen 
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:16) </span><b style='color: #31a2d6'>alex:</b> natürlich sind ferienjobs eher kurzfristig</div>
 
-<br><span style='font-size: x-small'>(08:28) </span><b style='color: #31a2d6'>alex:</b> der geht doch in die berge
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:17) </span><b style='color: pink'>valentina❀:</b> hast du schon angerufen?</div>
 
-<br><span style='font-size: x-small'>(08:28) </span><b style='color: #31a2d6'>alex:</b> ?bist du sehr sauer
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:18) </span><b style='color: #31a2d6'>alex:</b> hab ich jetzt vor </div>
 
-<br><span style='font-size: x-small'>(08:29) </span><b style='color: pink'>valentina❀:</b> ich wusste nicht, dass er in die berge geht?
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:18) </span><b style='color: pink'>valentina❀:</b> ok passt:)</div>
 
-<br><span style='font-size: x-small'>(08:37) </span><b style='color: pink'>valentina❀:</b> doch
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:21) </span><b style='color: #31a2d6'>alex:</b> do kurzzeitig können sie das nicht mehr anbieten</div>
 
-<br><span style='font-size: x-small'>(08:37) </span><b style='color: #31a2d6'>alex:</b> doch*
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:23) </span><b style='color: pink'>valentina❀:</b> oh </div>
 
-<br><span style='font-size: x-small'>(08:38) </span><b style='color: pink'>valentina❀:</b> das hast du mir nicht gesagt, vor allem wenn ein fussball spiel ist, wundert mich das
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:23) </span><b style='color: #31a2d6'>alex:</b> soll ich jetzt mal ATOMA-MULTIPOND anrufen?</div>
 
-<br><span style='font-size: x-small'>(08:39) </span><b style='color: pink'>valentina❀:</b> nein passt, alles gut, was machen wir dann heute?
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:24) </span><b style='color: #31a2d6'>alex:</b> kannst du mir den link dazu schicken?</div>
 
-<br><span style='font-size: x-small'>(08:39) </span><b style='color: #31a2d6'>alex:</b> ja muss er wissen
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:24) </span><b style='color: pink'>valentina❀:</b> https://de.jooble.org/stellenangebote-ferienjob-sch%C3%BCler/Waldkraiburg?gclid=CjwKCAjw_aemBhBLEiwAT98FMrmnJH4QRHjsP07O0I_4I3VHxlhKrNbJJNIOz5VODBRfIgJeKyN4KBoCrc0QAvD_BwE&utm_content=67212027017&utm_medium=cpc1&utm_source=google</div>
 
-<br><span style='font-size: x-small'>(08:39) </span><b style='color: #31a2d6'>alex:</b> tut mir leid das ich dir falsche hoffnungen gemacht habe
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:29) </span><b style='color: #31a2d6'>alex:</b> oh da ist keine nummer angegeben</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(08:44) </span><b style='color: pink'>valentina❀:</b> okay passt schon</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:29) </span><b style='color: #31a2d6'>alex:</b> dann such ich sie mir aus dem internet raus</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:44) </span><b style='color: #31a2d6'>alex:</b> wirklich?</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:30) </span><b style='color: #31a2d6'>alex:</b> ahh doch hab eine gefunden</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(08:44) </span><b style='color: pink'>valentina❀:</b> aber was haben wir jetzt vor? also morgen wann wir wollen zu der Farm fahren und Sonntag Barbie und Volksfest </div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:34) </span><b style='color: #31a2d6'>alex:</b> ATOMA-MULTIPOND hat schon 3 ferienjobler oder so</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(08:44) </span><b style='color: pink'>valentina❀:</b> ja, wirklich, alles gut alexander :)</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:36) </span><b style='color: pink'>valentina❀:</b> also auch nicht?</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:45) </span><b style='color: #31a2d6'>alex:</b> ja wäre jetzt der plan</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:36) </span><b style='color: #31a2d6'>alex:</b> n3e</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:46) </span><b style='color: #31a2d6'>alex:</b> morgen fahren wir zum heidelbeergarten sobald wir lusthaben</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:36) </span><b style='color: #31a2d6'>alex:</b> schwirig</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:46) </span><b style='color: #31a2d6'>alex:</b> also spontan</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:36) </span><b style='color: pink'>valentina❀:</b> mhh</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:46) </span><b style='color: #31a2d6'>alex:</b> oder?</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:36) </span><b style='color: #31a2d6'>alex:</b> soll ich beim stenger einfach nochmal nachfragen</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:46) </span><b style='color: #31a2d6'>alex:</b> oder willst du eine feste zeit ausmachen?</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:36) </span><b style='color: #31a2d6'>alex:</b> aber eigentlich hab ich keine lust</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(08:46) </span><b style='color: pink'>valentina❀:</b> ja, würd schon sagen</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:36) </span><b style='color: #31a2d6'>alex:</b> da drauf</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(08:46) </span><b style='color: pink'>valentina❀:</b> spontan</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:37) </span><b style='color: #31a2d6'>alex:</b> aber nächste woche soll es schöner werden</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(08:47) </span><b style='color: pink'>valentina❀:</b> weil müssen wir halt schauen, wanns uns bockt</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:37) </span><b style='color: #31a2d6'>alex:</b> vielleicht kann ich dann die kurze engelbertstrauß hose von meinem dad anziehen</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(08:47) </span><b style='color: pink'>valentina❀:</b> und heute? :)</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:38) </span><b style='color: #31a2d6'>alex:</b> das ich da nicht wie ein spaßt in jeans daher komme</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:49) </span><b style='color: #31a2d6'>alex:</b> 🤔</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:38) </span><b style='color: #31a2d6'>alex:</b> oder spast*?</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(08:50) </span><b style='color: pink'>valentina❀:</b> also gehst du dann sparlier stehen und danach direkt zu mir oder</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:38) </span><b style='color: #31a2d6'>alex:</b> oder doppel s</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:50) </span><b style='color: #31a2d6'>alex:</b> warscheinlich</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:38) </span><b style='color: #31a2d6'>alex:</b> ka</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(08:50) </span><b style='color: pink'>valentina❀:</b> mit zwischenstop bei der bücherrei </div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:38) </span><b style='color: #31a2d6'>alex:</b> egal</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(08:50) </span><b style='color: pink'>valentina❀:</b> und du kannst mit bmw fahren?</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:39) </span><b style='color: pink'>valentina❀:</b> mein bruder hat auch arbeitshosen, falls du welche brauchst haha</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(08:50) </span><b style='color: pink'>valentina❀:</b> wenn dein dad nicht da ist, oder fährt der mit bmw</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:39) </span><b style='color: pink'>valentina❀:</b> oder die von meiner schwester könnt dir auch passen lol</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:51) </span><b style='color: #31a2d6'>alex:</b> welcher bücherrei?</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:39) </span><b style='color: pink'>valentina❀:</b> aber ines it oder so macht auch keine ferienjobs</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:51) </span><b style='color: #31a2d6'>alex:</b> warte ich schau...</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:40) </span><b style='color: #31a2d6'>alex:</b> ist dein letzetr satz eine frage?</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(08:51) </span><b style='color: pink'>valentina❀:</b> ja in waldkraiburg </div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:41) </span><b style='color: #31a2d6'>alex:</b> ja wenn ich nix finde kann ich auch mal beim stenger nachfragen</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(08:51) </span><b style='color: pink'>valentina❀:</b> oder nicht </div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:42) </span><b style='color: pink'>valentina❀:</b> ja war eine frage & wenn dir gar nichts anderes übrig bleibt, dann leider schon</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:52) </span><b style='color: #31a2d6'>alex:</b> der BMW ist immer noch da :)</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:43) </span><b style='color: #31a2d6'>alex:</b> ich weiß nicht ob ines was anbietet</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:52) </span><b style='color: #31a2d6'>alex:</b> achso</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:43) </span><b style='color: #31a2d6'>alex:</b> hab nix gefunden</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(08:52) </span><b style='color: #31a2d6'>alex:</b> ja da kann ich nochmla nachschauen</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:46) </span><b style='color: pink'>valentina❀:</b> mein spiel ist abgesagt worden </div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:03) </span><b style='color: #31a2d6'>alex:</b> geht der auto chat wieder?</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:47) </span><b style='color: #31a2d6'>alex:</b> ohhh nein</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:11) </span><b style='color: pink'>valentina❀:</b> war aufm klo keine ahnung </div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:47) </span><b style='color: #31a2d6'>alex:</b> was machst du jetz?</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:11) </span><b style='color: #31a2d6'>alex:</b> JAAAAAAAAAA es geht wieder</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:47) </span><b style='color: pink'>valentina❀:</b> weiß nicht, wieso?</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:11) </span><b style='color: pink'>valentina❀:</b> und ja wir könnten ja in neumarkt oder so auch noch mal schauen</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:50) </span><b style='color: pink'>valentina❀:</b> verkauf fußbilder und du bekommst geld ;)</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:12) </span><b style='color: pink'>valentina❀:</b> und wann fährst du zum sparlier stehen?</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:50) </span><b style='color: #31a2d6'>alex:</b> einfach so abgesagt</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:12) </span><b style='color: #31a2d6'>alex:</b> ja natürlich jetzt habe wir ja viel zeit</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:50) </span><b style='color: #31a2d6'>alex:</b> schick mir welche hahaah</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:12) </span><b style='color: pink'>valentina❀:</b> ja eben</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:50) </span><b style='color: pink'>valentina❀:</b> ja, hat kein grund gesagt, vielleicht sind wir zu wenig </div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:12) </span><b style='color: #31a2d6'>alex:</b> um 11 ist treffpunkt</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:51) </span><b style='color: #31a2d6'>alex:</b> echt also hab ihr abgesagt und nicht der gegner</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:12) </span><b style='color: #31a2d6'>alex:</b> in kraiburg beim marktplatz</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:51) </span><b style='color: pink'>valentina❀:</b> es ist jetzt erst mittwoch, deshalb weiß ich nicht, wie viel ich mir jetzt schon denken muss wegen we</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:12) </span><b style='color: pink'>valentina❀:</b> in kraiburg?</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:51) </span><b style='color: #31a2d6'>alex:</b> pichl will was alleine machen</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:12) </span><b style='color: pink'>valentina❀:</b> ah ok</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:51) </span><b style='color: pink'>valentina❀:</b> ja ich mein war ein testspiel und wahrscheinlich sind die meisten im urlaub </div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:12) </span><b style='color: pink'>valentina❀:</b> supi</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:51) </span><b style='color: #31a2d6'>alex:</b> warscheinlich</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:13) </span><b style='color: #31a2d6'>alex:</b> supiiiiiiiiiiiii</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:53) </span><b style='color: pink'>valentina❀:</b> ja, ich kann gern am samstag was allein machen, wenn du was mit pichl machen willst</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:13) </span><b style='color: pink'>valentina❀:</b> schickst du mir dann einen snap von dir </div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:53) </span><b style='color: pink'>valentina❀:</b> musst du wissen :)</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:13) </span><b style='color: #31a2d6'>alex:</b> ja</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:54) </span><b style='color: pink'>valentina❀:</b> ich weiß nicht, welcher tag am besten ist</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:13) </span><b style='color: #31a2d6'>alex:</b> kann ich machen</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:59) </span><b style='color: #31a2d6'>alex:</b> ok.. ja, wenn es dir nix ausmacht?</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:13) </span><b style='color: #31a2d6'>alex:</b> gehts eigentlich bei dir auch wieder</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:59) </span><b style='color: #31a2d6'>alex:</b> meinst du mit welcher tag am besten wäre, den tag mit dem ich was mit dem pichl mache?</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:13) </span><b style='color: pink'>valentina❀:</b> und wann willst du denn überlegen was wir heute noch machen könnten, oder willst du spontan sein</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:00) </span><b style='color: pink'>valentina❀:</b> ja, ich weiß nicht, ob heute, freitag, samstag oder sonntag am besten ist haha</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:13) </span><b style='color: #31a2d6'>alex:</b> das automatische laden der nachrichten</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:12) </span><b style='color: #31a2d6'>alex:</b> hmm</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:13) </span><b style='color: pink'>valentina❀:</b> ja ich glaub es funktioniert </div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:12) </span><b style='color: #31a2d6'>alex:</b> schau mal kurz whatsapp </div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:13) </span><b style='color: pink'>valentina❀:</b> ja funktioniert</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:23) </span><b style='color: pink'>valentina❀:</b> du hast meine frage jetzt aber nicht beantwortet</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:13) </span><b style='color: #31a2d6'>alex:</b> mal schaun</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:23) </span><b style='color: pink'>valentina❀:</b> mach doch ferienjob im christ </div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:13) </span><b style='color: #31a2d6'>alex:</b> vllt fällt mir was ein</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:24) </span><b style='color: #31a2d6'>alex:</b> ich sehe kein ?</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:14) </span><b style='color: pink'>valentina❀:</b> ja, jetzt können wir beide noch darüber reden</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:24) </span><b style='color: #31a2d6'>alex:</b> spaß</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:14) </span><b style='color: pink'>valentina❀:</b> kino, schwimmbad, nix machen, essen selbst kochen keine ahnung haha</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:24) </span><b style='color: #31a2d6'>alex:</b> welche zeile meinst du</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:16) </span><b style='color: #31a2d6'>alex:</b> wir können gerne ins schwimmbad gehen</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:25) </span><b style='color: pink'>valentina❀:</b> ja auf welcher tag am besten ist </div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:16) </span><b style='color: #31a2d6'>alex:</b> wenn ein guter film läuft können wir auch anschließend ins kino gehen</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:25) </span><b style='color: #31a2d6'>alex:</b> woher soll ich das wissen, was für dich am besten ist</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:17) </span><b style='color: #31a2d6'>alex:</b> oder essen</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:25) </span><b style='color: #31a2d6'>alex:</b> ist es nicht dumm am samstag was zu machen</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:17) </span><b style='color: #31a2d6'>alex:</b> oder davor essen</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:25) </span><b style='color: #31a2d6'>alex:</b> aber irgendwie auch nicht</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:17) </span><b style='color: #31a2d6'>alex:</b> müssen wir hald schaun wies wir von der zeit hinbekommen</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:26) </span><b style='color: pink'>valentina❀:</b> ja, am besten wärs für mich natürlich wenn du heute mit ihm ins kino gehst</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:18) </span><b style='color: #31a2d6'>alex:</b> ich richte schon mal bisschen zeug her um es später nicht zu vergessen</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:26) </span><b style='color: pink'>valentina❀:</b> aber das müsst ihr ja wissen, wanns für euch am besten ist :)</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:19) </span><b style='color: pink'>valentina❀:</b> okay mach das, ich schau mal kino programm...</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:26) </span><b style='color: #31a2d6'>alex:</b> er will nicht oppenheimer ansehen</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:20) </span><b style='color: pink'>valentina❀:</b> aber das ding ist, dann ist es ja iwie voll unnötig, dass wir jetzt heute bei mir sind, naja </div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:26) </span><b style='color: #31a2d6'>alex:</b> dauert ihm zu lange</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:20) </span><b style='color: pink'>valentina❀:</b> und frägst du nach, wenn du das buch in waldkraiburg beim ersten mal nicht findest?</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:27) </span><b style='color: pink'>valentina❀:</b> ach so er will gar nicht kino</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:22) </span><b style='color: #31a2d6'>alex:</b> aber wir wollten doch auch in neumarkt in der bücherrei schauen</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:27) </span><b style='color: pink'>valentina❀:</b> sorry bin davon ausgegangen </div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:22) </span><b style='color: #31a2d6'>alex:</b> oder nimmer?</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:27) </span><b style='color: #31a2d6'>alex:</b> am samstag nach meinem speil kann ich was mit ihm machen und danach aufd nacht dann zu dir</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:23) </span><b style='color: pink'>valentina❀:</b> doch doch, das machen wir auch</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:29) </span><b style='color: pink'>valentina❀:</b> ja wie gesagt, ich weiß nicht, was am besten ist, aber hört sich nach nem plan an</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:23) </span><b style='color: pink'>valentina❀:</b> aber wenn es in waldkraiburg gibt, dann obviously nicht</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:30) </span><b style='color: pink'>valentina❀:</b> heißt das, dass wir einfach freitag bei mir sind, du dann wenn treffpunkt ist, zu dir fährst und dann abends wiederkommst?</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:25) </span><b style='color: #31a2d6'>alex:</b> ja ich kann nachfragen wenn ichs nicht finde</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:30) </span><b style='color: pink'>valentina❀:</b> oder wie meinst du :)</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:25) </span><b style='color: #31a2d6'>alex:</b> soll ich auch handtücker mittnehmen</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:35) </span><b style='color: #31a2d6'>alex:</b> ja, fußball -> pichl -> valentina</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:25) </span><b style='color: #31a2d6'>alex:</b> falls wir baden fahren wollen</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:36) </span><b style='color: pink'>valentina❀:</b> und freitag bei mir?</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:26) </span><b style='color: pink'>valentina❀:</b> ja, mach :) schadet nicht</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:40) </span><b style='color: #31a2d6'>alex:</b> ja</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:27) </span><b style='color: pink'>valentina❀:</b> aber nur zu zweit, ist auch schwierig, kannst du dir nicht einen spielpartner suchen und ich kann (hoffentlich) lesen</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:42) </span><b style='color: pink'>valentina❀:</b> okay, perfekt, hört sich gut an </div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:28) </span><b style='color: pink'>valentina❀:</b> pack dein pichlmaier und die emma ein, ihr shisht und wir lästern</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(12:06) </span><b style='color: pink'>valentina❀:</b> und was denkst du machst du mit pichl</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:29) </span><b style='color: #31a2d6'>alex:</b> soll ich pichl mal fragen? hahaha</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(12:08) </span><b style='color: #31a2d6'>alex:</b> mahl sehen</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:29) </span><b style='color: pink'>valentina❀:</b> ja, wenn du denkst, dass das was gutes ist, dann ja</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(12:08) </span><b style='color: #31a2d6'>alex:</b> wenn wir nix finden dann warscheinlich wieder shieshen</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:30) </span><b style='color: pink'>valentina❀:</b> wenn das schmarn ist für dich, dann nicht</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(12:08) </span><b style='color: #31a2d6'>alex:</b> aber ich hab kein problem damit</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:31) </span><b style='color: #31a2d6'>alex:</b> ich frag ihn erst mal wie das date gelaufen ist</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(12:08) </span><b style='color: #31a2d6'>alex:</b> du schon?</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:38) </span><b style='color: pink'>valentina❀:</b> ok</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(12:09) </span><b style='color: pink'>valentina❀:</b> ne passt :</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:42) </span><b style='color: pink'>valentina❀:</b> ok, ich muss dann bald weg, werd dir aber noch schreiben können, also wenn Zeit oder so ist </div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(12:09) </span><b style='color: pink'>valentina❀:</b> ne passt :)</div>
 
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:46) </span><b style='color: pink'>valentina❀:</b> kannst mir jederzeit schreiben, wenn was ist, ich glaub ich hab da dann Wlan, aber per Vchat ist trotzdem besser</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(12:10) </span><b style='color: pink'>valentina❀:</b> shishen+</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:54) </span><b style='color: #31a2d6'>alex:</b> ok</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(12:10) </span><b style='color: pink'>valentina❀:</b> shishen*</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:23) </span><b style='color: #31a2d6'>alex:</b> pichl hat erst am sonntag das date</div>
+<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(12:11) </span><b style='color: #31a2d6'>alex:</b> ja ich weiß wie man es schreibt danke</div>
 
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:23) </span><b style='color: #31a2d6'>alex:</b> soll ich jetzt trotzdem handtücher mitnehemen?</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:40) </span><b style='color: pink'>valentina❀:</b> will er dabei sein?</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:45) </span><b style='color: #31a2d6'>alex:</b> das hab ich ihn noch nicht gefragt</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:46) </span><b style='color: #31a2d6'>alex:</b> nur er oder soll ich noch andere fragen</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:51) </span><b style='color: pink'>valentina❀:</b> puh keine ahnung, erst mal </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:52) </span><b style='color: pink'>valentina❀:</b> nur ihn</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(07:32) </span><b style='color: #31a2d6'>alex:</b> guten morgen </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:32) </span><b style='color: pink'>valentina❀:</b> das liest du dir jetzt durch https://www.adhs-ratgeber.com/adhs-partnerschaft.html</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:32) </span><b style='color: pink'>valentina❀:</b> bitte</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:32) </span><b style='color: pink'>valentina❀:</b> ich will wissen, ob das stimmt oder so</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(09:34) </span><b style='color: pink'>valentina❀:</b> die namen das kann kein zufall sein bei "poblem organisation"</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(09:54) </span><b style='color: #31a2d6'>alex:</b> ok ich schau mal durch</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:06) </span><b style='color: #31a2d6'>alex:</b> aber ezähl mal das mit der vanessa</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:06) </span><b style='color: pink'>valentina❀:</b> ja, also die vanessa ist anscheinend onmächtig geworden, ohne grund und dann genau auf den dorn vom Simon sein gürtel mit dem ohr gefallen, hat dann geblutet </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:07) </span><b style='color: pink'>valentina❀:</b> aber hört sich das alles nicht sehr nach einem zufall an?</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:07) </span><b style='color: pink'>valentina❀:</b> oder hört sich das für dich krass realistisch an </div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:08) </span><b style='color: #31a2d6'>alex:</b> nein das hört sich eher übertrieben ausgedacht an</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:08) </span><b style='color: #31a2d6'>alex:</b> wieso wäre sie onmächtig geworden?</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:08) </span><b style='color: pink'>valentina❀:</b> ja, hat meine mam auch gesagt</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:08) </span><b style='color: #31a2d6'>alex:</b> und?</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:08) </span><b style='color: pink'>valentina❀:</b> und das sie wieder nicht ins krankenhaus fahren will, nervt meine mam </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:09) </span><b style='color: pink'>valentina❀:</b> ja nix und, mehr kann sie auch nicht sagen</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:09) </span><b style='color: #31a2d6'>alex:</b> dann glaub ich garnix</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:10) </span><b style='color: pink'>valentina❀:</b> ja, aber mein gott is mir a wurscht </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:10) </span><b style='color: pink'>valentina❀:</b> ich hasse des drama von da vanessa immer</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:10) </span><b style='color: pink'>valentina❀:</b> weil iwie glaubt man ihr gar nichts mehr</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:10) </span><b style='color: #31a2d6'>alex:</b> weil der anrzt warscheinlich nicht so blöd ist und irgendwellche erfundenen geschichten glaubt</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:10) </span><b style='color: pink'>valentina❀:</b> haahah </div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:10) </span><b style='color: #31a2d6'>alex:</b> ich will ihr irgendwie gar kein mitleid mehr schenken</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:11) </span><b style='color: #31a2d6'>alex:</b> das hat sie sogar bei mir schon geschaft</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:11) </span><b style='color: pink'>valentina❀:</b> seit den ko tropfen glaub ich ihr nichts mehr und ja empfinde auch keine empathie mehr</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:12) </span><b style='color: pink'>valentina❀:</b> und hast du dir schon ein bisschen was durchgelesen?</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:13) </span><b style='color: #31a2d6'>alex:</b> was genau soll ich auf der seite durchlesen</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:15) </span><b style='color: pink'>valentina❀:</b> ja die problembereiche </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:15) </span><b style='color: pink'>valentina❀:</b> da sind extra bilder </div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:15) </span><b style='color: #31a2d6'>alex:</b> ok</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:17) </span><b style='color: pink'>valentina❀:</b> ich hoffe es ist dir nicht unangenehm, dass ich sowas schicke, bloß damit ich weiß, ob es in deinen augen stimmt oder nicht</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:23) </span><b style='color: #31a2d6'>alex:</b> <b>Sie denkt...</b>  „Ich werde ihn nie verstehen!! Er wird mich nie verstehen!!" das hat mich wirklich an dich erinnert</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:23) </span><b style='color: #31a2d6'>alex:</b> sorry</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:24) </span><b style='color: #31a2d6'>alex:</b> <b>Er denkt...</b>  „Ich halte das nicht mehr aus. Sie engt mich total ein.</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:25) </span><b style='color: #31a2d6'>alex:</b> und darin sehe ich irgendwie mich</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:27) </span><b style='color: #31a2d6'>alex:</b> ok hahah, aber organistion sind 100% wir</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:27) </span><b style='color: #31a2d6'>alex:</b> oder nicht?</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:29) </span><b style='color: pink'>valentina❀:</b> ja</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:29) </span><b style='color: pink'>valentina❀:</b> hast du das gefühl das es jemand schuldigen gibt, oder beide gleich schuld sind</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:30) </span><b style='color: #31a2d6'>alex:</b> beide</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:30) </span><b style='color: #31a2d6'>alex:</b> aber anscheinend passiert es ja nicht selten</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:31) </span><b style='color: pink'>valentina❀:</b> ja </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:33) </span><b style='color: pink'>valentina❀:</b> aber so impulsiv wie er is, tut sie mir leid lol, und in den beispielen merkt man auch, dass sie in den comics immer verständnis haben muss, aber er iwie nichts machen kann</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:34) </span><b style='color: #31a2d6'>alex:</b> stimmt</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:34) </span><b style='color: #31a2d6'>alex:</b> hast recht</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:34) </span><b style='color: pink'>valentina❀:</b> bei dem beispiel stimmungsschwankungen, was war da falsch, was sie gesagt hat? und was hätte sie anders machen soll</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:34) </span><b style='color: pink'>valentina❀:</b> kannst du mir das sagen</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:39) </span><b style='color: #31a2d6'>alex:</b> ich finde sie hat überreagiert</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:39) </span><b style='color: #31a2d6'>alex:</b> sie vergleicht urlaub planung, mit in einer woche planen</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:39) </span><b style='color: #31a2d6'>alex:</b> verstehst du was ich meine</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:40) </span><b style='color: pink'>valentina❀:</b> ne du hast nicht richtig gelesen, lies dir nochmal seine sätze durch </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:43) </span><b style='color: pink'>valentina❀:</b> wo ich dir recht geben muss, "ohne mich zu fragen" ist schmarn, aber absprechen und nicht einfach so, obwohl es evtl was gegeben hätte, was im herbst wichtig gewesen wäre, hätte man schon absprechen können </div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:49) </span><b style='color: #31a2d6'>alex:</b> hätte man ansprechen können. aber ich finde trotzdem überreagiert</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:49) </span><b style='color: #31a2d6'>alex:</b> wegen der tonlage und so</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:50) </span><b style='color: pink'>valentina❀:</b> ja, aber du hast trotzdem falsch gelesen</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:50) </span><b style='color: pink'>valentina❀:</b> aber sein weglaufen ist halt wirklich krass überreagiert </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:51) </span><b style='color: pink'>valentina❀:</b> ist es dir immer noch nicht aufgefallen, was bei organisation dabei ist </div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:54) </span><b style='color: #31a2d6'>alex:</b> nein ist mir nicht</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:55) </span><b style='color: pink'>valentina❀:</b> unter der erklärung wie sich jeweilige parteien fühlen, da ist eine beispielliste und da stehen 2 namen </div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:58) </span><b style='color: #31a2d6'>alex:</b> Eva und Markus</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:58) </span><b style='color: #31a2d6'>alex:</b> ahahah</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:58) </span><b style='color: pink'>valentina❀:</b> jaaaa</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:59) </span><b style='color: pink'>valentina❀:</b> no coincidence</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(10:59) </span><b style='color: #31a2d6'>alex:</b> was hab ich jetzt falsch gelesen</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:59) </span><b style='color: pink'>valentina❀:</b> destiny </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(10:59) </span><b style='color: pink'>valentina❀:</b> ja, er macht nicht eine woche sonder, einen segelschein über mehrere monate evtl und dann 2 wochen urlaub</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:00) </span><b style='color: pink'>valentina❀:</b> und ich find das blöd, dass er denkt, dass die anderen frauen besser sind...</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:02) </span><b style='color: #31a2d6'>alex:</b> ok ich hab wirklich falsch verstanden</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:02) </span><b style='color: #31a2d6'>alex:</b> da hätte er schon was sagen könne</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:02) </span><b style='color: #31a2d6'>alex:</b> können*</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:02) </span><b style='color: #31a2d6'>alex:</b> ich hätte dir das natürlich gesagt</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:03) </span><b style='color: pink'>valentina❀:</b> hahha danke </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:03) </span><b style='color: pink'>valentina❀:</b> ja passt ja auch, wollt nur wissen, ob die website stimmt</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:03) </span><b style='color: pink'>valentina❀:</b> dann können wir mit den tips gemeinsam daran arbeiten </div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:04) </span><b style='color: #31a2d6'>alex:</b> ok</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:17) </span><b style='color: pink'>valentina❀:</b> bei der sexualität is glaub ich, bei uns nicht so wirklich das problem, eher bei mir, dass ich nicht abschalten kann</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:18) </span><b style='color: pink'>valentina❀:</b> aber ich glaub das du nicht so reagierst, wenn ich iwas sage, weil du dich von so was glaub ich eher weniger ablenken würdest </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:25) </span><b style='color: pink'>valentina❀:</b> alex</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:25) </span><b style='color: #31a2d6'>alex:</b> ohh sorry war da eine frage dabei?</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:26) </span><b style='color: #31a2d6'>alex:</b> alles was du gesagt hast stimmt</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:27) </span><b style='color: pink'>valentina❀:</b> ich hab heute keine feuerwehr und deshalb werd ich wahrscheinlich heute in vilsbiburg nachschauen, ob die ein kleid haben</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:27) </span><b style='color: pink'>valentina❀:</b> ich hab so angst</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:27) </span><b style='color: pink'>valentina❀:</b> wenn ich heute in vib keins finde, was machen wir dann?</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:27) </span><b style='color: #31a2d6'>alex:</b> ich weiß es nicht :(</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:27) </span><b style='color: pink'>valentina❀:</b> und danke haha</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:28) </span><b style='color: #31a2d6'>alex:</b> ich fahre zu dir und wir fahren bis nach münchen wenn es sein muss</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:28) </span><b style='color: #31a2d6'>alex:</b> ok?</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:28) </span><b style='color: pink'>valentina❀:</b> dann is nur noch die option, dass du entweder allein schauen fährst, oder ich morgen bis nach mühldorf fahr nach schule und dann wir in mühldorf gemeinsam schauen</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:28) </span><b style='color: #31a2d6'>alex:</b> muss ich jz beereal machen</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:29) </span><b style='color: pink'>valentina❀:</b> ich kann nicht bis nach münchen fahren, da reicht die zeit nicht lol</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:29) </span><b style='color: pink'>valentina❀:</b> ich mach </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:29) </span><b style='color: pink'>valentina❀:</b> ne ich mach doch nicht</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:30) </span><b style='color: pink'>valentina❀:</b> ich seh kacke aus</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:30) </span><b style='color: #31a2d6'>alex:</b> same</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:30) </span><b style='color: pink'>valentina❀:</b> hahhah</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:31) </span><b style='color: pink'>valentina❀:</b> jetzt bist du nicht auf meine nachricht eingeganen </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:31) </span><b style='color: pink'>valentina❀:</b> eingegangen </div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:32) </span><b style='color: #31a2d6'>alex:</b> wegen dem kleid</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:32) </span><b style='color: pink'>valentina❀:</b> ja</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:35) </span><b style='color: #31a2d6'>alex:</b> ich muss überlegen</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:37) </span><b style='color: #31a2d6'>alex:</b> es bleibt uns aber nichts anderes übrig außer in einem geschäft zu suchen, weil es fürs bestellen schon zu spät ist</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:43) </span><b style='color: #31a2d6'>alex:</b> und welche person hat schon genauso ein kleid, das wir uns vorstellen und zum ausleihen zur verfügung stellt</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:46) </span><b style='color: pink'>valentina❀:</b> ja </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:50) </span><b style='color: pink'>valentina❀:</b> also dann geh ich in vib heute schauen & bringe dir hoffentlich positives feedback zurück</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:52) </span><b style='color: #31a2d6'>alex:</b> aber jetzt musst du ja wegen mir dir den stress antuhen :(</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:52) </span><b style='color: #31a2d6'>alex:</b> nur wenn du willst</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:53) </span><b style='color: #31a2d6'>alex:</b> hoffentlich kommt positives </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:54) </span><b style='color: pink'>valentina❀:</b> ja, alex, ich hab nicht so viele möglichkeiten, ich werds überleben, ich will ja auch gut aussehen</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(11:54) </span><b style='color: pink'>valentina❀:</b> hast du heut training </div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:58) </span><b style='color: #31a2d6'>alex:</b> ich glaub ich werd's heute wieder versuchen</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:58) </span><b style='color: #31a2d6'>alex:</b> wenn ich darf</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:58) </span><b style='color: #31a2d6'>alex:</b> ne ich darf doch nicht hahaha</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(11:58) </span><b style='color: #31a2d6'>alex:</b> erst wieder donnerstag</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(12:00) </span><b style='color: pink'>valentina❀:</b> haha ok, ja dann ruf ich dich an, wenn ich probleme hab, oder?</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(12:00) </span><b style='color: pink'>valentina❀:</b> warum darfst du eig nicht </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(12:00) </span><b style='color: pink'>valentina❀:</b> also nicht mal laufen oder was?</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(12:04) </span><b style='color: #31a2d6'>alex:</b> mach das ich will immer uptodate gehalten werden</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(12:04) </span><b style='color: #31a2d6'>alex:</b> er hat gesagt ich soll heute noch aussetzen</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(12:04) </span><b style='color: pink'>valentina❀:</b> perfekt</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(12:04) </span><b style='color: pink'>valentina❀:</b> ok lol</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(12:04) </span><b style='color: pink'>valentina❀:</b> ja dann </div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(12:04) </span><b style='color: #31a2d6'>alex:</b> mehr hat er nicht gesagt</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(12:04) </span><b style='color: #31a2d6'>alex:</b> auch nicht laufen</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(12:12) </span><b style='color: pink'>valentina❀:</b> dann hast du ja richtig viel zeit nichts zu machen</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(12:16) </span><b style='color: #31a2d6'>alex:</b> was könnte ich denn machen?</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(12:16) </span><b style='color: #31a2d6'>alex:</b> soll ich was machen?</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(12:16) </span><b style='color: pink'>valentina❀:</b> gute frage, keine ahnung :( tut mir leid</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(12:18) </span><b style='color: pink'>valentina❀:</b> wie hast du geschlafen</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(12:19) </span><b style='color: #31a2d6'>alex:</b> gut</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(12:19) </span><b style='color: #31a2d6'>alex:</b> und du?</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(12:19) </span><b style='color: pink'>valentina❀:</b> auch, aber ich hätt noch länger schlafen können</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(12:19) </span><b style='color: #31a2d6'>alex:</b> natürlich, könnte man immer</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(12:19) </span><b style='color: #31a2d6'>alex:</b> wie war dein tag bist heute?</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(12:20) </span><b style='color: pink'>valentina❀:</b> ja, nicht besonders spannend, hab bisschen was zu tun, deshalb ganz okay :)</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(12:22) </span><b style='color: #31a2d6'>alex:</b> wieder excel tabellen?</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(12:22) </span><b style='color: pink'>valentina❀:</b> ja, eig nur </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(13:47) </span><b style='color: pink'>valentina❀:</b> sie hat mir angeboten, dass ich ihr kleid nehmen könnte </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(13:47) </span><b style='color: pink'>valentina❀:</b> mir gefällt das silber nicht so an der seite</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(13:53) </span><b style='color: #31a2d6'>alex:</b> welche größe ist das?</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(13:53) </span><b style='color: pink'>valentina❀:</b> ja die hat halt XS/S sowas, die hat ja ungefähr meine figur</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(13:55) </span><b style='color: #31a2d6'>alex:</b> ich erkenne das silberne nicht so gut aber du kannst es ja mal anprobieren</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(13:55) </span><b style='color: #31a2d6'>alex:</b> oder nicht?</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(13:57) </span><b style='color: pink'>valentina❀:</b> naja, die wohnt halt in nsv und dann muss ich das kleid bei ihr holen und wenn ichs nicht will, dann halt wieder zurück geben </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(13:57) </span><b style='color: pink'>valentina❀:</b> keine ahnung ob ich so lust darauf hab</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(13:59) </span><b style='color: pink'>valentina❀:</b> vielleicht siehst du jetzt das silberne besser</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(14:02) </span><b style='color: #31a2d6'>alex:</b> und das gefällt dir nicht</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(14:03) </span><b style='color: #31a2d6'>alex:</b> brobiers hald bei ihr an, weil fals dus nicht willst brauchst du nicht nochmal zu ihr fahren</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(14:03) </span><b style='color: #31a2d6'>alex:</b> probiers*</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(14:07) </span><b style='color: pink'>valentina❀:</b> ja, aber dann muss ich morgen wieder länger in vib bleiben, wenns mir nicht gefällt </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(14:07) </span><b style='color: pink'>valentina❀:</b> aber egal ich mach das schon allein</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(14:09) </span><b style='color: #31a2d6'>alex:</b> ich kann auch zu dir kommen wenn du willst</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(14:10) </span><b style='color: pink'>valentina❀:</b> alex, du weißt, wie ich das hasse, wenn du extra zu mir fahren musst, wenn wir nicht lange zeit haben</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(14:11) </span><b style='color: pink'>valentina❀:</b> mein plan ist jetzt, ich geh ca 16.45 zum geschäft in vib, in das ich wollte, um zu schauen, ob es dort eins gibt, wenn nicht, dann schreib ich ilayda und fahre zu ihr in nsv um das kleid von ihr abzuholen und dann muss ich halt schauen, wann wieder ein zug nach egglkofen geht </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(14:12) </span><b style='color: pink'>valentina❀:</b> also mit dem zug von 18Uhr in vib nach nsv </div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(14:13) </span><b style='color: #31a2d6'>alex:</b> ok</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(14:13) </span><b style='color: #31a2d6'>alex:</b> guter plan</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(14:14) </span><b style='color: pink'>valentina❀:</b> das problem ist, dass ilayda morgen in urlaub fährt, dass heißt ich kann das kleid nur heute abholen </div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(14:14) </span><b style='color: #31a2d6'>alex:</b> hältst du mich dann immer auf dem laufenden?</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(14:14) </span><b style='color: pink'>valentina❀:</b> ne ist ein scheiß aufwendiger plan und ultra anstrengend </div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(14:14) </span><b style='color: pink'>valentina❀:</b> ja muss ich schaun, ob ich zeit dafür hab</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(14:14) </span><b style='color: pink'>valentina❀:</b> muss mich ja immer beeilen wegen zug und so</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(14:15) </span><b style='color: #31a2d6'>alex:</b> tut mir leid dan sag ich hald ist ein scheiß plan</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(14:16) </span><b style='color: #31a2d6'>alex:</b> also was ist jetzt dein plan?</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(14:19) </span><b style='color: pink'>valentina❀:</b> ja ich sags ehrlich keine ahnung wie ich das am besten machen soll</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(14:19) </span><b style='color: pink'>valentina❀:</b> ich muss halt alles schnell machen, aber weiß auch nicht 110%-ig wie ich das der ilayda erklären soll</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(14:25) </span><b style='color: pink'>valentina❀:</b> wenn ich ein auto hätte, wärs defintiv einfacher :/</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(14:28) </span><b style='color: #31a2d6'>alex:</b> ja dann fahr ich jetzt zu dir</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(14:28) </span><b style='color: pink'>valentina❀:</b> was würdest du machen?</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(14:28) </span><b style='color: #31a2d6'>alex:</b> ich kann mir das nicht mehr länger anhören</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(14:28) </span><b style='color: pink'>valentina❀:</b> ok dann jammere ich nicht mehr, keine sorge ich bin eine starke frau ich schaff das</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(14:28) </span><b style='color: #31a2d6'>alex:</b> wirklich?</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(14:29) </span><b style='color: pink'>valentina❀:</b> ich dachte ich kann dir meine gedanken sagen, aber wenn es dich nervt, dann sag ichs nicht mehr</div>
-
-<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(14:29) </span><b style='color: pink'>valentina❀:</b> ich hab keine andere wahl alexander, ich muss es so machen</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(14:29) </span><b style='color: #31a2d6'>alex:</b> es nervt mich nicht</div>
-
-<div class='messageDIV' style='background: #31a2d630'><span class='messageTime'>(14:29) </span><b style='color: #31a2d6'>alex:</b> aber ich hab das gefühl ich muss zu dir</div>
+<div class='messageDIV' style='background: #EA91A130'><span class='messageTime'>(12:11) </span><b style='color: pink'>valentina❀:</b> bitte</div>
 

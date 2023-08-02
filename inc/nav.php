@@ -17,8 +17,6 @@
     session_destroy();
     header("Location: ./");
   }
-    $username = @$_SESSION['username'];
-    $password = @$_SESSION['password'];
 ?>
 <nav class="top-nav">
     <a href="https://<?php echo $_SERVER['SERVER_NAME']; ?>/home">
@@ -39,7 +37,7 @@
         if (!$_SESSION['login']) {
           echo "<a href='https://".$_SERVER['SERVER_NAME']."/login'>Login</a>";
         }
-        if ($username == 'admin') {
+        if ($_SESSION['username'] == 'admin') {
           echo "<a style='color: cyan;' href='https://".$_SERVER['SERVER_NAME']."/administration?action=einträge'>Login Einträge</a>";
           echo "<a href='https://".$_SERVER['SERVER_NAME']."/administration?action=nachrichten'>Nachrichten</a>";
           echo "<a style='color: red;' href='https://".$_SERVER['SERVER_NAME']."/administration?action=erstellen'>Login Tabelle zurücksetzen</a>";

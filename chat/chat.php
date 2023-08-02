@@ -20,10 +20,9 @@
   <em>v.1.3.7: Logged in as.</em>
 </div>
   <?php
-    session_start();
     error_reporting(E_ALL && ~E_WARNING);
-    
-    if ($_SESSION['username'] == 'admin') {
+    $_SESSION['username'] = "sdlkfjsdf";
+    if ($_COOKIE['username'] == 'admin') {
       $username = "<b style='color: #31a2d6'>alex</b>";
     } else {
       $username = "<b style='color: pink'>valentina❀</b>";

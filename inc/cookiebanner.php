@@ -1,6 +1,6 @@
 <head>
-    <link rel="stylesheet" href="https://<?php echo $_SERVER['SERVER_NAME']; ?>/css/cookie.css" type="text/css">
-    <!-- <link rel="stylesheet" href="./css/cookie.css" type="text/css"> -->
+    <!-- <link rel="stylesheet" href="https://<?php echo $_SERVER['SERVER_NAME']; ?>/css/cookie.css" type="text/css"> -->
+    <link rel="stylesheet" href="./css/cookie.css" type="text/css">
 </head>
 <div class="cookie-container">
     <div class="middle">
