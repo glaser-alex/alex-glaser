@@ -15,13 +15,15 @@
   <h2 style="margin-block: 0.5em">Release Notes</h2>
   <em>v.1.0.7: Image Upload</em>
   <br><br>
-  <em>v.1.1.7: Message with background colour.</em>
+  <em>v.1.1.7: Message with background colour</em>
   <br><br>
-  <em>v.1.3.7: Logged in as.</em>
+  <em>v.1.3.7: Logged in as</em>
+  <br><br>
+  <em>v.0.4.8: Return Button</em>
 </div>
   <?php
+    // session_start();
     error_reporting(E_ALL && ~E_WARNING);
-    $_SESSION['username'] = "sdlkfjsdf";
     if ($_COOKIE['username'] == 'admin') {
       $username = "<b style='color: #31a2d6'>alex</b>";
     } else {
@@ -37,14 +39,16 @@
     ?>
   </div>
 </div>
-<div class="form">
   <form action="./auswerten.php" method="post" enctype="multipart/form-data">
-    <label for="fileToUpload">Upload</label>
     <input type="file" name="fileToUpload" id="fileToUpload">
-    <input type="text" name="message" id="message" placeholder="Schreibe eine Nachricht..." autofocus>
-    <input type="submit" name="submit" value="Senden">
+    <div class="grid-container">
+      <label for="fileToUpload">Upload</label>
+      <input type="text" name="message" id="message" placeholder="Schreibe eine Nachricht..." autofocus>
+      <input type="submit" name="submit" value="Senden">
+    </div>
+    <button class="zurück" onclick="location.href='www.alex-glaser.de'">Zurück</button>
+    <input type="hidden" name="user" value="<?php echo $_COOKIE['username']; ?>">
   </form>
-</div>
 <script type="text/javascript">
 
 function scrollToBottom() {
@@ -58,16 +62,19 @@ setInterval(scrollToBottom, 0);
 $(document).ready(function(){
   
   if (screen.width <= '900') {
+    // window.screen.lockOrientationUniversal("portrait");
     const message = document.getElementById('message');
     const chatBox = document.getElementById('chatBoxDIV');
+    message.autofocus = false;
     message.addEventListener('focusin', (event) => {
-      chatBox.style.height = "50%";
-      chatBox.style.height = "40vh";
+      chatBox.style.height = "35vh";
     })
     
     message.addEventListener('focusout', (event) => {
-      chatBox.style.height = "90%";
+      chatBox.style.height = "65vh";
     })
+  } else {
+    message.autofocus = true;
   }
 
   //Load the file containing the chat log

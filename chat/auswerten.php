@@ -1,10 +1,10 @@
 <?php
-    session_start();
+    // session_start();
     // $_POST = array_map('htmlspecialchars', $_POST);
-    echo "<pre>".print_r($_POST)."</pre>";
-    $username = @$_SESSION['username'];
+    // echo "<pre>".print_r($_POST)."</pre>";
+    $user = @$_POST['user'];
 
-    if ($_SESSION['username'] == 'admin') {
+    if ($user == 'admin') {
         $username = "<b style='color: #31a2d6'>alex:</b>";
         $backgroundColor = "#31a2d630";
     } else {

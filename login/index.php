@@ -38,7 +38,7 @@
         if ($username == $row->username && $pw_verify) {
           $_SESSION['login'] = true;
           if ($_COOKIE['consent'] == 'all') {
-            setcookie('username', $username, null, "/");
+            setcookie('username', $username, time() + (86400 * 30), "/");
           }
           // Führt dich wieder zur gezwungenen Anmeldeseite
           header("Location: ../".$location);

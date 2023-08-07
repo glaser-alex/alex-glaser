@@ -1,6 +1,6 @@
 <head>
-    <!-- <link rel="stylesheet" href="https://<?php echo $_SERVER['SERVER_NAME']; ?>/css/cookie.css" type="text/css"> -->
-    <link rel="stylesheet" href="./css/cookie.css" type="text/css">
+    <link rel="stylesheet" href="https://<?php echo $_SERVER['SERVER_NAME']; ?>/css/cookie.css" type="text/css">
+    <!-- <link rel="stylesheet" href="../css/cookie.css" type="text/css"> -->
 </head>
 <div class="cookie-container">
     <div class="middle">
@@ -14,8 +14,8 @@
                 <a target="_blank" href="https://<?php echo $_SERVER['SERVER_NAME']; ?>/agb/agb.html">Datenschutzrichtlinien</a> einverstanden.
             </p>
             <section class="grid-container-button">
-                <a href='https://<?php echo $_SERVER['SERVER_NAME']; ?>/index.php?consent=all'>Cookies akzeptieren</a>
-                <a href='https://<?php echo $_SERVER['SERVER_NAME']; ?>/index.php?consent=notall'>Nur notwendige Cookies</a>
+                <a href='./?consent=all'>Cookies akzeptieren</a>
+                <a href='./?consent=notall'>Nur notwendige Cookies</a>
             </section>
         </section>
     </div>

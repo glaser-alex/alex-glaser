@@ -14,6 +14,11 @@
             font-family: Ubuntu;
             src: url(../font/Ubuntu/Ubuntu-Light.ttf);
         }
+        *{
+          box-sizing: border-box;
+          -moz-box-sizing: border-box;
+          -webkit-box-sizing: border-box;
+        }
         html {
             width: 100%;
             height: 100%;
@@ -33,11 +38,19 @@
             font-size: 3em;
             text-align: center;
         }
+        .link {
+          padding: 15px;
+          margin: 0 10px;
+          text-decoration: none;
+        }
+        .zurück {
+          cursor: pointer;
+          color: #fff;
+          font-weight: bold;
+          background-color: #000;
+        }
         .cookie-reset {
           color: white;
-          text-decoration: none;
-          margin: 0 auto;
-          padding: 15px;
           background-color: #009c00;
         }
         .top-nav {
@@ -58,14 +71,19 @@
 <body>
 <?php
   session_start();
+  // error_reporting(E_ALL && ~E_WARNING);
+  // echo "<pre>"; print_r($_SESSION); echo "</pre>";
+  // echo "<pre>"; print_r($_COOKIE); echo "</pre>";
+  // echo "<pre>"; print_r($_GET); echo "</pre>";
+  // echo "<pre>"; print_r($_POST); echo "</pre>";
 
   if ($_COOKIE['consent'] == 'all') {
     if ($_SESSION['login']) {
-      if ($_SESSION['username'] != 'admin' && $_SESSION['username'] != 'valentina') {
+      if ($_COOKIE['username'] != 'admin' && $_COOKIE['username'] != 'valentina') {
         echo "<div class='the-box'>";
-        echo "<div class='the-title'>Du hast keine Berechtigung</div>";
+        echo "<div class='the-title'>Sie haben keine Berechtigung</div>";
+        echo "<br><a class='link zurück' onclick='history.back()'>Zurück</a>";
         echo "</div>";
-        exit();
       } else {
         header("Location: ./chat.php");
       }
@@ -75,23 +93,14 @@
   } else {
     echo "<div class='the-box'>";
     echo "<div class='the-title'>Dafür müssen Sie alle Cookies aktzeptieren</div>";
-    echo "<br><a class='cookie-reset' href='./?cookie=reset'>Cookies ändern</a>";
+    echo "<br>";
+    echo "<a class='link cookie-reset' href='./?cookie=allow'>Cookies erlauben</a>";
+    echo "<a class='link zurück' onclick='history.back()'>Zurück</a>";
     echo "</div>";
   }
 
-  if (!isset($_COOKIE['consent'])) {
-    include("./inc/cookiebanner.php");
-    if ($_GET['consent'] == 'all') { setcookie('consent', 'all', null, "/"); header("Location: ./"); }
-    else if ($_GET['consent'] == 'notall') { setcookie('consent', 'notall', null, "/"); header("Location: ./"); }
-  }
-  if (@$_GET['cookie'] == 'reset') {
-    foreach ( $_COOKIE as $key => $value ) {
-      setcookie( $key, $value, time() - 3600, '/' );
-    }
-    include("../inc/cookiebanner.php");
-    if ($_GET['consent'] == 'all') { setcookie('consent', 'all', null, "/"); header("Location: ./"); }
-    else if ($_GET['consent'] == 'notall') { setcookie('consent', 'notall', null, "/"); header("Location: ./"); }
-    // header("Location: ./");
+  if (@$_GET['cookie'] == 'allow') {
+    setcookie('consent', 'all', time() + (86400 * 30), "/"); header("Location: ./");
   }
 ?>
 </body>

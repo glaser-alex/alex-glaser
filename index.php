@@ -23,9 +23,24 @@
   <body>
 
   <?php
-    error_reporting(E_ALL && ~E_WARNING);
+    session_start();
+    // error_reporting(E_ALL && ~E_WARNING);
     include("./inc/nav.php");
-  ?>
+    
+    if (!isset($_COOKIE['consent']) || @$_GET['cookie'] == 'reset') {
+      include "./inc/cookiebanner.php";
+    }
+    if ($_GET['consent'] == 'all') {
+        setcookie('consent', 'all', time() + (86400 * 30), "/"); header("Location: ../");
+    } else if ($_GET['consent'] == 'notall') {
+        foreach ( $_COOKIE as $key => $value ) {
+            setcookie( $key, $value, time() - 3600, '/');
+        }
+        setcookie('consent', 'notall', time() + (86400 * 30), "/"); header("Location: ../");
+    }
+    // Wenn username im cookie vorhanden, dann login
+    if ($_COOKIE['username']) { $_SESSION['login'] = true; }
+?>
 
 <main>
   <div class="bg-img-home">

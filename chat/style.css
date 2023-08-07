@@ -10,8 +10,7 @@ html {
     src: url(../font/Ubuntu/Ubuntu-Light.ttf);
 }
 body {
-    height: 85%;
-    height: 850px;
+    height: 880px;
     max-width: 900px;
     margin: 50px auto;
     border: 15px solid var(--prim);
@@ -26,7 +25,7 @@ body {
     margin: 10px 20px;
 }
 .chatBoxDIV {
-    height: 85%;
+    height: 80%;
     padding: 10px;
     margin: 0 20px;
     overflow: auto;
@@ -48,50 +47,56 @@ body {
 .messageMitImg .messageTime {
     position: relative; bottom: 13px;
 }
-.form {
-    padding: 20px;
+form {
+    margin: 20px;
+}
+.grid-container {
+    gap: 10px;
+    display: grid;
+    grid-template-columns: 75px auto 75px;
 }
 input, button {
-    padding: 5px;
-    color: black;
     font-size: large;
 }
-input:focus {
+input[type=text]:focus {
     border: 0;
 }
-label {
+label[for=fileToUpload] {
     color: #fff;
     cursor: pointer;
     padding: 9px 10px;
+    text-align: center;
     border-radius: 5px;
     background-color: var(--prim);
 }
-#fileToUpload {
+input[type=file] {
     opacity: 0;
     z-index: -1;
     position: absolute;
 }
-input[type=text] {
-    width: 674px;
-}
-#scrollButton, input[type=submit] {
+input[type=submit] {
+    color: #000;
     padding: 6px;
-    border-radius: 2px;
+    border-radius: 5px;
     border: 1px solid #999;
     background-color: transparent;
 }
-#scrollButton {
+.zurück {
+    border: 0;
     width: 100%;
-    background-color: #f1f1f1;
+    padding: 6px;
+    color: #fff;
+    cursor: pointer;
+    margin: 20px 0;
+    background-color: var(--prim);
 }
 .version {
     width: 100%;
     font-size: small;
     color: #585858;
     text-align: center;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     position: absolute; left: 0; bottom: 0;
-    /* border: 1px solid black; */
   }
 
 @media only screen and (max-width: 1500px) {
@@ -105,22 +110,15 @@ input[type=text] {
     }
     body {
         height: 90%;
-        min-width: 400px;
         margin: 20px auto;
         border: 0 solid var(--prim);
     }
     .chatBoxDIV {
-        height: 90%;
         margin: 0 20px 20px 20px;
     }
-    .chatBoxDIVfocus {
-        height: 40vh;
-    }
-    .form {
-        padding: 0 20px;
-    }
-    input[type=text] {
-        width: 241px;
+    .grid-container {
+        gap: 5px;
+        grid-template-columns: 70px auto 70px;
     }
 }
 
