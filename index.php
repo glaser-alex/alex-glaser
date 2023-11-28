@@ -1,9 +1,8 @@
+<!DOCTYPE html>
 <!--
     Autor: Alex Glaser
     erstellt am: 28.03.2023
 -->
-
-<!DOCTYPE html>
   <html lang="de">
   <head>
     <meta charset="UTF-8">
@@ -39,7 +38,7 @@
         setcookie('consent', 'notall', time() + (86400 * 30), "/"); header("Location: ../");
     }
     // Wenn username im cookie vorhanden, dann login
-    if ($_COOKIE['username']) { $_SESSION['login'] = true; }
+    if (isset($_COOKIE['username'])) { $_SESSION['login'] = true; }
 ?>
 
 <main>

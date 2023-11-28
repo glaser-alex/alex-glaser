@@ -11,7 +11,7 @@
       <a href="https://<?php echo $_SERVER['SERVER_NAME']; ?>/games">Games</a>
       <a href="https://<?php echo $_SERVER['SERVER_NAME']; ?>/referenzen">Referenzen</a>
       <a href="https://<?php echo $_SERVER['SERVER_NAME']; ?>/kontakt">Kontakt</a>
-      <a href="https://<?php echo $_SERVER['SERVER_NAME']; ?>/chat">Chat</a>
+      <a href="https://vchat.alex-glaser.de" target="vChat">Chat</a>
       <a href="./?cookie=reset">Cookie ändern</a>
       <?php
 

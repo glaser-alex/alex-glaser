@@ -4,11 +4,14 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="stylesheet" href="../css/style.css" type="text/css">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
     <link rel="shortcut icon" href="../img/logo.png" type="image/x-icon">
     <script src="https://cdn.tailwindcss.com"></script>
     <title>Kontakt</title>
     <style>
+        html {
+          height: 100vh;
+        }
         body {
           height: 100%;
           position: relative;
@@ -37,6 +40,10 @@
           height: 40px;
           background-color: #ffffff;
         }
+        .isolate {
+          height: 100%;
+          background-color: #00000080;
+        }
     </style>
 </head>
 <body>
@@ -47,8 +54,7 @@
     $nname = $_COOKIE['nname'];
   }
 ?>
-
-<div class="isolate px-6 py-24 sm:py-32 lg:px-8" style="background-color: #00000080; height: 100%;">
+<div class="isolate px-6 py-24 sm:py-32 lg:px-8">
   <div class="absolute inset-x-0 top-[-10rem] -z-10 transform-gpu overflow-hidden blur-3xl sm:top-[-20rem]" aria-hidden="true"></div>
   <div class="mx-auto max-w-2xl text-center">
     <h2 class="text-3xl font-bold tracking-tight text-white sm:text-5xl">Kontakt</h2>

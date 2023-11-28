@@ -1,14 +1,13 @@
+<!DOCTYPE html>
 <!--
     Autor: Alex Glaser
     erstellt am: 28.03.2023
 -->
-
-<!DOCTYPE html>
 <html lang="de">
   <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
   <link rel="stylesheet" href="../css/loginstyle.css">
     <link rel="shortcut icon" href="../img/logo.png" type="image/x-icon">
   <title>Login</title>
@@ -32,7 +31,7 @@
       $ergebniss = mysqli_query($link, $sql);
 
       while ($row = mysqli_fetch_object($ergebniss)) {
-        $password_aus_db = $row->pwd;
+        $password_aus_db = $row->password;
         $pw_verify = password_verify($password, $password_aus_db);
         // echo "User Passwort: ".$password."<br>Datenbank Passwort: ".$password_aus_db."<br>Verify: ".($pw_verify?"true":"false");
         if ($username == $row->username && $pw_verify) {

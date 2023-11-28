@@ -40,8 +40,7 @@
 <body>
 <div class="the-box">
 <?php
-    session_start();
-    if ($_SESSION['username'] != 'admin') {
+    if ($_COOKIE['username'] != 'admin') {
         echo "<div class='the-title'>Du hast keine Berechtigung</div>";
     } else {
         if ($_GET['action'] == 'anzeigen') {
